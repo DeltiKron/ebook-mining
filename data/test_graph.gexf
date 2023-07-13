@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-20">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Reg " label="Reg " />
+      <node id="Cheery " label="Cheery " />
+      <node id="Wolfgang " label="Wolfgang " />
+      <node id="Vetinari " label="Vetinari " />
+      <node id="Inigo " label="Inigo " />
+      <node id="Sir Samuel " label="Sir Samuel " />
+      <node id="Gavin " label="Gavin " />
+      <node id="Lady Margolotta " label="Lady Margolotta " />
+      <node id="Shoe " label="Shoe " />
+      <node id="Lord " label="Lord " />
+      <node id="Igor " label="Igor " />
+      <node id="Sybil " label="Sybil " />
+      <node id="Margolotta " label="Margolotta " />
+      <node id="Wolf " label="Wolf " />
+      <node id="Mister Vimes " label="Mister Vimes " />
+      <node id="Sam Vimes " label="Sam Vimes " />
+      <node id="Gaspode " label="Gaspode " />
+      <node id="Angua " label="Angua " />
+      <node id="Leonard " label="Leonard " />
+      <node id="Lady Sybil " label="Lady Sybil " />
+      <node id="Tantony " label="Tantony " />
+      <node id="Detritus " label="Detritus " />
+      <node id="Dee " label="Dee " />
+      <node id="Nobby " label="Nobby " />
+      <node id="Vimes " label="Vimes " />
+      <node id="Carrot " label="Carrot " />
+      <node id="Serafine " label="Serafine " />
+      <node id="Lady " label="Lady " />
+      <node id="Sam " label="Sam " />
+    </nodes>
+    <edges>
+      <edge source="Reg " target="Shoe " id="0" weight="4.0" />
+      <edge source="Cheery " target="Vimes " id="1" weight="7.0" />
+      <edge source="Wolfgang " target="Vimes " id="2" weight="7.0" />
+      <edge source="Wolfgang " target="Angua " id="3" weight="6.0" />
+      <edge source="Wolfgang " target="Carrot " id="4" weight="7.0" />
+      <edge source="Vetinari " target="Lord " id="5" weight="9.0" />
+      <edge source="Vetinari " target="Leonard " id="6" weight="7.0" />
+      <edge source="Inigo " target="Vimes " id="7" weight="15.0" />
+      <edge source="Sir Samuel " target="Lady Margolotta " id="8" weight="4.0" />
+      <edge source="Gavin " target="Carrot " id="9" weight="5.0" />
+      <edge source="Gavin " target="Angua " id="10" weight="6.0" />
+      <edge source="Gavin " target="Vimes " id="11" weight="5.0" />
+      <edge source="Gavin " target="Gaspode " id="12" weight="4.0" />
+      <edge source="Igor " target="Vimes " id="13" weight="18.0" />
+      <edge source="Sybil " target="Vimes " id="14" weight="14.0" />
+      <edge source="Sybil " target="Sam " id="15" weight="12.0" />
+      <edge source="Sybil " target="Lady " id="16" weight="6.0" />
+      <edge source="Sybil " target="Sam Vimes " id="17" weight="4.0" />
+      <edge source="Sybil " target="Serafine " id="18" weight="4.0" />
+      <edge source="Margolotta " target="Lady " id="19" weight="10.0" />
+      <edge source="Wolf " target="Vimes " id="20" weight="5.0" />
+      <edge source="Mister Vimes " target="Carrot " id="21" weight="6.0" />
+      <edge source="Gaspode " target="Angua " id="22" weight="5.0" />
+      <edge source="Gaspode " target="Carrot " id="23" weight="16.0" />
+      <edge source="Angua " target="Vimes " id="24" weight="11.0" />
+      <edge source="Angua " target="Carrot " id="25" weight="9.0" />
+      <edge source="Lady Sybil " target="Vimes " id="26" weight="6.0" />
+      <edge source="Tantony " target="Vimes " id="27" weight="12.0" />
+      <edge source="Detritus " target="Vimes " id="28" weight="9.0" />
+      <edge source="Dee " target="Vimes " id="29" weight="12.0" />
+      <edge source="Nobby " target="Vimes " id="30" weight="5.0" />
+      <edge source="Nobby " target="Carrot " id="31" weight="5.0" />
+      <edge source="Vimes " target="Carrot " id="32" weight="24.0" />
+    </edges>
+  </graph>
+</gexf>
