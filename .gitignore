@@ -1,0 +1,17 @@
+.ipynb_checkpoints/ExtractPeopleCombosAndGraph-checkpoint.ipynb .ipynb_checkpoints/FullGraph-checkpoint.ipynb .ipynb_checkpoints/Word2Vec-checkpoint.ipynb .ipynb_checkpoints/full_graph-checkpoint.gexf .ipynb_checkpoints/jingo-checkpoint.pdf .ipynb_checkpoints/pm-checkpoint.ipynb
+__pycache__/test.cpython-310.pyc
+__pycache__/untitled.cpython-310.pyc
+.cache/v/cache/lastfailed
+.ipynb_checkpoints/full_graph-checkpoint.gexf
+.ipynb_checkpoints/ExtractPeopleCombosAndGraph-checkpoint.ipynb
+.ipynb_checkpoints/FullGraph-checkpoint.ipynb
+.ipynb_checkpoints/jingo-checkpoint.pdf
+.ipynb_checkpoints/pm-checkpoint.ipynb
+.ipynb_checkpoints/Word2Vec-checkpoint.ipynb
+.venv/**
+data/*.epub
+*.epub
+**/__pycache__/**
+**/.ipynb_checkpoints/**
+**/*.egg-info
+
