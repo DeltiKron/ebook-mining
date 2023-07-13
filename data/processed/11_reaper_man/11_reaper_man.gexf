@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Schleppel " label="Schleppel " />
+      <node id="Albert " label="Albert " />
+      <node id="Windle " label="Windle " />
+      <node id="Ridcully " label="Ridcully " />
+      <node id="Binky " label="Binky " />
+      <node id="Ludmilla " label="Ludmilla " />
+      <node id="Death " label="Death " />
+      <node id="Right " label="Right " />
+      <node id="Bill " label="Bill " />
+      <node id="Bill Door " label="Bill Door " />
+      <node id="Ned " label="Ned " />
+      <node id="Door " label="Door " />
+      <node id="Miss " label="Miss " />
+      <node id="Doreen " label="Doreen " />
+      <node id="Arthur " label="Arthur " />
+      <node id="Mrs Cake " label="Mrs Cake " />
+      <node id="Simnel " label="Simnel " />
+      <node id="Flitworth " label="Flitworth " />
+      <node id="Miss Flitworth " label="Miss Flitworth " />
+    </nodes>
+    <edges>
+      <edge source="Schleppel " target="Windle " id="0" weight="4.0" />
+      <edge source="Albert " target="Death " id="1" weight="8.0" />
+      <edge source="Windle " target="Mrs Cake " id="2" weight="4.0" />
+      <edge source="Ridcully " target="Right " id="3" weight="4.0" />
+      <edge source="Binky " target="Death " id="4" weight="5.0" />
+      <edge source="Ludmilla " target="Mrs Cake " id="5" weight="4.0" />
+      <edge source="Death " target="Miss Flitworth " id="6" weight="4.0" />
+      <edge source="Bill " target="Door " id="7" weight="88.0" />
+      <edge source="Bill " target="Bill Door " id="8" weight="4.0" />
+      <edge source="Bill " target="Miss Flitworth " id="9" weight="6.0" />
+      <edge source="Bill Door " target="Miss Flitworth " id="10" weight="4.0" />
+      <edge source="Ned " target="Simnel " id="11" weight="5.0" />
+      <edge source="Door " target="Miss Flitworth " id="12" weight="6.0" />
+      <edge source="Miss " target="Flitworth " id="13" weight="39.0" />
+      <edge source="Doreen " target="Arthur " id="14" weight="6.0" />
+    </edges>
+  </graph>
+</gexf>

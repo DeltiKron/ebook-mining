@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Dolly Sisters " label="Dolly Sisters " />
+      <node id="Dibbler " label="Dibbler " />
+      <node id="Unmentionables " label="Unmentionables " />
+      <node id="John Keel " label="John Keel " />
+      <node id="Someone " label="Someone " />
+      <node id="Nobby " label="Nobby " />
+      <node id="Ned " label="Ned " />
+      <node id="Henry " label="Henry " />
+      <node id="Carrot " label="Carrot " />
+      <node id="Death " label="Death " />
+      <node id="Sergeant Colon " label="Sergeant Colon " />
+      <node id="Watch " label="Watch " />
+      <node id="Qu " label="Qu " />
+      <node id="Coates " label="Coates " />
+      <node id="Detritus " label="Detritus " />
+      <node id="Fred Colon " label="Fred Colon " />
+      <node id="Tilden " label="Tilden " />
+      <node id="Colon " label="Colon " />
+      <node id="Sconner " label="Sconner " />
+      <node id="Snouty " label="Snouty " />
+      <node id="Lord Venturi " label="Lord Venturi " />
+      <node id="Lord Winder " label="Lord Winder " />
+      <node id="Mister Vimes " label="Mister Vimes " />
+      <node id="Billy Wiglet " label="Billy Wiglet " />
+      <node id="Stronginthearm " label="Stronginthearm " />
+      <node id="Okay " label="Okay " />
+      <node id="John " label="John " />
+      <node id="Reg Shoe " label="Reg Shoe " />
+      <node id="Waddy " label="Waddy " />
+      <node id="Treacle Mine Road " label="Treacle Mine Road " />
+      <node id="Vimes " label="Vimes " />
+      <node id="Miss Battye " label="Miss Battye " />
+      <node id="Knock " label="Knock " />
+      <node id="Lord Vetinari " label="Lord Vetinari " />
+      <node id="Anyway " label="Anyway " />
+      <node id="Keel " label="Keel " />
+      <node id="Dotsie " label="Dotsie " />
+      <node id="Rosie Palm " label="Rosie Palm " />
+      <node id="Ned Coates " label="Ned Coates " />
+      <node id="Captain Tilden " label="Captain Tilden " />
+      <node id="Young Sam " label="Young Sam " />
+      <node id="Guild " label="Guild " />
+      <node id="Sadie " label="Sadie " />
+      <node id="Sam Vimes " label="Sam Vimes " />
+      <node id="Fred " label="Fred " />
+      <node id="Sybil " label="Sybil " />
+      <node id="Vetinari " label="Vetinari " />
+      <node id="Lawn " label="Lawn " />
+      <node id="Sam " label="Sam " />
+      <node id="Mrs Rutherford " label="Mrs Rutherford " />
+      <node id="Duke " label="Duke " />
+      <node id="Damn " label="Damn " />
+      <node id="Rust " label="Rust " />
+      <node id="Sweeper " label="Sweeper " />
+      <node id="Nobby Nobbs " label="Nobby Nobbs " />
+      <node id="Nancyball " label="Nancyball " />
+      <node id="Madam " label="Madam " />
+      <node id="Reg " label="Reg " />
+      <node id="Winder " label="Winder " />
+      <node id="Buggy " label="Buggy " />
+      <node id="Havelock " label="Havelock " />
+      <node id="Watch House " label="Watch House " />
+      <node id="Willikins " label="Willikins " />
+      <node id="Rosie " label="Rosie " />
+      <node id="Ferret " label="Ferret " />
+      <node id="Carcer " label="Carcer " />
+      <node id="Look " label="Look " />
+      <node id="Ridcully " label="Ridcully " />
+      <node id="Sandra " label="Sandra " />
+      <node id="Marilyn " label="Marilyn " />
+      <node id="Morphic Street " label="Morphic Street " />
+      <node id="Snapcase " label="Snapcase " />
+      <node id="Cable Street " label="Cable Street " />
+      <node id="Captain Swing " label="Captain Swing " />
+      <node id="Scoone Avenue " label="Scoone Avenue " />
+      <node id="Dickins " label="Dickins " />
+      <node id="Wiglet " label="Wiglet " />
+    </nodes>
+    <edges>
+      <edge source="Dolly Sisters " target="Vimes " id="0" weight="6.0" />
+      <edge source="Dibbler " target="Nobby " id="1" weight="5.0" />
+      <edge source="Dibbler " target="Fred Colon " id="2" weight="4.0" />
+      <edge source="Dibbler " target="Colon " id="3" weight="4.0" />
+      <edge source="Dibbler " target="Vimes " id="4" weight="7.0" />
+      <edge source="Unmentionables " target="Vimes " id="5" weight="4.0" />
+      <edge source="John Keel " target="Vimes " id="6" weight="18.0" />
+      <edge source="John Keel " target="Snouty " id="7" weight="4.0" />
+      <edge source="John Keel " target="Sweeper " id="8" weight="5.0" />
+      <edge source="John Keel " target="Keel " id="9" weight="4.0" />
+      <edge source="John Keel " target="Carcer " id="10" weight="5.0" />
+      <edge source="John Keel " target="Sam " id="11" weight="4.0" />
+      <edge source="Someone " target="Vimes " id="12" weight="12.0" />
+      <edge source="Nobby " target="Carrot " id="13" weight="6.0" />
+      <edge source="Nobby " target="Vimes " id="14" weight="22.0" />
+      <edge source="Nobby " target="Colon " id="15" weight="9.0" />
+      <edge source="Nobby " target="Reg " id="16" weight="5.0" />
+      <edge source="Nobby " target="Sergeant Colon " id="17" weight="5.0" />
+      <edge source="Nobby " target="Fred Colon " id="18" weight="6.0" />
+      <edge source="Nobby " target="Carcer " id="19" weight="6.0" />
+      <edge source="Nobby " target="Nobby Nobbs " id="20" weight="5.0" />
+      <edge source="Nobby " target="Sconner " id="21" weight="4.0" />
+      <edge source="Ned " target="Coates " id="22" weight="8.0" />
+      <edge source="Ned " target="Vimes " id="23" weight="6.0" />
+      <edge source="Ned " target="Sam " id="24" weight="4.0" />
+      <edge source="Henry " target="Vimes " id="25" weight="4.0" />
+      <edge source="Carrot " target="Sergeant Colon " id="26" weight="4.0" />
+      <edge source="Carrot " target="Vimes " id="27" weight="12.0" />
+      <edge source="Carrot " target="Carcer " id="28" weight="4.0" />
+      <edge source="Death " target="Vimes " id="29" weight="4.0" />
+      <edge source="Sergeant Colon " target="Vimes " id="30" weight="5.0" />
+      <edge source="Sergeant Colon " target="Colon " id="31" weight="5.0" />
+      <edge source="Watch " target="Vimes " id="32" weight="6.0" />
+      <edge source="Qu " target="Sweeper " id="33" weight="8.0" />
+      <edge source="Qu " target="Vimes " id="34" weight="8.0" />
+      <edge source="Qu " target="Mister Vimes " id="35" weight="4.0" />
+      <edge source="Coates " target="Vimes " id="36" weight="13.0" />
+      <edge source="Detritus " target="Vimes " id="37" weight="6.0" />
+      <edge source="Fred Colon " target="Colon " id="38" weight="14.0" />
+      <edge source="Fred Colon " target="Fred " id="39" weight="6.0" />
+      <edge source="Fred Colon " target="Vimes " id="40" weight="23.0" />
+      <edge source="Fred Colon " target="Keel " id="41" weight="4.0" />
+      <edge source="Fred Colon " target="Sam " id="42" weight="9.0" />
+      <edge source="Fred Colon " target="Wiglet " id="43" weight="5.0" />
+      <edge source="Fred Colon " target="Waddy " id="44" weight="7.0" />
+      <edge source="Fred Colon " target="Billy Wiglet " id="45" weight="4.0" />
+      <edge source="Tilden " target="Snouty " id="46" weight="7.0" />
+      <edge source="Tilden " target="Vimes " id="47" weight="16.0" />
+      <edge source="Tilden " target="Knock " id="48" weight="6.0" />
+      <edge source="Tilden " target="Captain Tilden " id="49" weight="4.0" />
+      <edge source="Colon " target="Vimes " id="50" weight="25.0" />
+      <edge source="Colon " target="Fred " id="51" weight="7.0" />
+      <edge source="Colon " target="Sam " id="52" weight="8.0" />
+      <edge source="Colon " target="Snouty " id="53" weight="5.0" />
+      <edge source="Colon " target="Cable Street " id="54" weight="4.0" />
+      <edge source="Colon " target="Waddy " id="55" weight="7.0" />
+      <edge source="Colon " target="Wiglet " id="56" weight="5.0" />
+      <edge source="Colon " target="Billy Wiglet " id="57" weight="4.0" />
+      <edge source="Snouty " target="Vimes " id="58" weight="26.0" />
+      <edge source="Snouty " target="Sam " id="59" weight="5.0" />
+      <edge source="Lord Venturi " target="Madam " id="60" weight="4.0" />
+      <edge source="Lord Winder " target="Vimes " id="61" weight="6.0" />
+      <edge source="Lord Winder " target="Madam " id="62" weight="5.0" />
+      <edge source="Mister Vimes " target="Vimes " id="63" weight="24.0" />
+      <edge source="Mister Vimes " target="Carcer " id="64" weight="8.0" />
+      <edge source="Mister Vimes " target="Sweeper " id="65" weight="14.0" />
+      <edge source="Billy Wiglet " target="Vimes " id="66" weight="7.0" />
+      <edge source="Stronginthearm " target="Vimes " id="67" weight="6.0" />
+      <edge source="Okay " target="Vimes " id="68" weight="6.0" />
+      <edge source="John " target="Vimes " id="69" weight="4.0" />
+      <edge source="Reg Shoe " target="Reg " id="70" weight="8.0" />
+      <edge source="Reg Shoe " target="Vimes " id="71" weight="9.0" />
+      <edge source="Waddy " target="Fred " id="72" weight="6.0" />
+      <edge source="Waddy " target="Wiglet " id="73" weight="5.0" />
+      <edge source="Waddy " target="Vimes " id="74" weight="17.0" />
+      <edge source="Treacle Mine Road " target="Vimes " id="75" weight="11.0" />
+      <edge source="Vimes " target="Sam " id="76" weight="9.0" />
+      <edge source="Vimes " target="Guild " id="77" weight="4.0" />
+      <edge source="Vimes " target="Lord Vetinari " id="78" weight="6.0" />
+      <edge source="Vimes " target="Willikins " id="79" weight="6.0" />
+      <edge source="Vimes " target="Damn " id="80" weight="4.0" />
+      <edge source="Vimes " target="Sam Vimes " id="81" weight="15.0" />
+      <edge source="Vimes " target="Carcer " id="82" weight="5.0" />
+      <edge source="Vimes " target="Reg " id="83" weight="15.0" />
+      <edge source="Vimes " target="Sybil " id="84" weight="12.0" />
+      <edge source="Vimes " target="Vetinari " id="85" weight="15.0" />
+      <edge source="Vimes " target="Buggy " id="86" weight="4.0" />
+      <edge source="Vimes " target="Ridcully " id="87" weight="4.0" />
+      <edge source="Vimes " target="Look " id="88" weight="5.0" />
+      <edge source="Vimes " target="Rosie " id="89" weight="16.0" />
+      <edge source="Vimes " target="Lawn " id="90" weight="21.0" />
+      <edge source="Vimes " target="Dotsie " id="91" weight="4.0" />
+      <edge source="Vimes " target="Sadie " id="92" weight="4.0" />
+      <edge source="Vimes " target="Scoone Avenue " id="93" weight="4.0" />
+      <edge source="Vimes " target="Rosie Palm " id="94" weight="11.0" />
+      <edge source="Vimes " target="Keel " id="95" weight="21.0" />
+      <edge source="Vimes " target="Captain Tilden " id="96" weight="5.0" />
+      <edge source="Vimes " target="Watch House " id="97" weight="4.0" />
+      <edge source="Vimes " target="Sweeper " id="98" weight="21.0" />
+      <edge source="Vimes " target="Anyway " id="99" weight="4.0" />
+      <edge source="Vimes " target="Knock " id="100" weight="17.0" />
+      <edge source="Vimes " target="Fred " id="101" weight="14.0" />
+      <edge source="Vimes " target="Marilyn " id="102" weight="5.0" />
+      <edge source="Vimes " target="Nobby Nobbs " id="103" weight="7.0" />
+      <edge source="Vimes " target="Ned Coates " id="104" weight="5.0" />
+      <edge source="Vimes " target="Cable Street " id="105" weight="10.0" />
+      <edge source="Vimes " target="Young Sam " id="106" weight="5.0" />
+      <edge source="Vimes " target="Winder " id="107" weight="12.0" />
+      <edge source="Vimes " target="Snapcase " id="108" weight="10.0" />
+      <edge source="Vimes " target="Miss Battye " id="109" weight="4.0" />
+      <edge source="Vimes " target="Captain Swing " id="110" weight="7.0" />
+      <edge source="Vimes " target="Sandra " id="111" weight="5.0" />
+      <edge source="Vimes " target="Morphic Street " id="112" weight="4.0" />
+      <edge source="Vimes " target="Duke " id="113" weight="4.0" />
+      <edge source="Vimes " target="Wiglet " id="114" weight="8.0" />
+      <edge source="Vimes " target="Ferret " id="115" weight="4.0" />
+      <edge source="Vimes " target="Madam " id="116" weight="9.0" />
+      <edge source="Vimes " target="Rust " id="117" weight="5.0" />
+      <edge source="Vimes " target="Nancyball " id="118" weight="4.0" />
+      <edge source="Vimes " target="Mrs Rutherford " id="119" weight="4.0" />
+      <edge source="Vimes " target="Dickins " id="120" weight="9.0" />
+      <edge source="Knock " target="Carcer " id="121" weight="4.0" />
+      <edge source="Lord Vetinari " target="Vetinari " id="122" weight="4.0" />
+      <edge source="Keel " target="Carcer " id="123" weight="10.0" />
+      <edge source="Keel " target="Sweeper " id="124" weight="4.0" />
+      <edge source="Keel " target="Madam " id="125" weight="4.0" />
+      <edge source="Dotsie " target="Rosie " id="126" weight="4.0" />
+      <edge source="Dotsie " target="Sadie " id="127" weight="4.0" />
+      <edge source="Rosie Palm " target="Rosie " id="128" weight="5.0" />
+      <edge source="Young Sam " target="Sam " id="129" weight="4.0" />
+      <edge source="Sadie " target="Rosie " id="130" weight="4.0" />
+      <edge source="Fred " target="Wiglet " id="131" weight="5.0" />
+      <edge source="Fred " target="Sam " id="132" weight="4.0" />
+      <edge source="Fred " target="Cable Street " id="133" weight="4.0" />
+      <edge source="Sybil " target="Willikins " id="134" weight="4.0" />
+      <edge source="Vetinari " target="Carcer " id="135" weight="5.0" />
+      <edge source="Vetinari " target="Winder " id="136" weight="4.0" />
+      <edge source="Sam " target="Snapcase " id="137" weight="6.0" />
+      <edge source="Sam " target="Carcer " id="138" weight="6.0" />
+      <edge source="Sam " target="Wiglet " id="139" weight="5.0" />
+      <edge source="Sweeper " target="Carcer " id="140" weight="4.0" />
+      <edge source="Madam " target="Havelock " id="141" weight="4.0" />
+      <edge source="Madam " target="Snapcase " id="142" weight="4.0" />
+      <edge source="Madam " target="Winder " id="143" weight="4.0" />
+      <edge source="Carcer " target="Cable Street " id="144" weight="4.0" />
+      <edge source="Carcer " target="Dickins " id="145" weight="4.0" />
+    </edges>
+  </graph>
+</gexf>

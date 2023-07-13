@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Shoe " label="Shoe " />
+      <node id="Margolotta " label="Margolotta " />
+      <node id="Nobby " label="Nobby " />
+      <node id="Gavin " label="Gavin " />
+      <node id="Lady Sybil " label="Lady Sybil " />
+      <node id="Cheery " label="Cheery " />
+      <node id="Sybil " label="Sybil " />
+      <node id="Wolf " label="Wolf " />
+      <node id="Carrot " label="Carrot " />
+      <node id="Lady Margolotta " label="Lady Margolotta " />
+      <node id="Leonard " label="Leonard " />
+      <node id="Lady " label="Lady " />
+      <node id="Lord " label="Lord " />
+      <node id="Dee " label="Dee " />
+      <node id="Wolfgang " label="Wolfgang " />
+      <node id="Mister Vimes " label="Mister Vimes " />
+      <node id="Inigo " label="Inigo " />
+      <node id="Colon " label="Colon " />
+      <node id="Reg " label="Reg " />
+      <node id="Angua " label="Angua " />
+      <node id="Detritus " label="Detritus " />
+      <node id="Vimes " label="Vimes " />
+      <node id="Tantony " label="Tantony " />
+      <node id="Sir Samuel " label="Sir Samuel " />
+      <node id="Sam " label="Sam " />
+      <node id="Gaspode " label="Gaspode " />
+      <node id="Sam Vimes " label="Sam Vimes " />
+      <node id="Serafine " label="Serafine " />
+      <node id="Igor " label="Igor " />
+      <node id="Vetinari " label="Vetinari " />
+    </nodes>
+    <edges>
+      <edge source="Shoe " target="Reg " id="0" weight="4.0" />
+      <edge source="Margolotta " target="Lady " id="1" weight="10.0" />
+      <edge source="Nobby " target="Angua " id="2" weight="5.0" />
+      <edge source="Nobby " target="Colon " id="3" weight="4.0" />
+      <edge source="Nobby " target="Vimes " id="4" weight="5.0" />
+      <edge source="Nobby " target="Carrot " id="5" weight="4.0" />
+      <edge source="Gavin " target="Angua " id="6" weight="7.0" />
+      <edge source="Gavin " target="Vimes " id="7" weight="5.0" />
+      <edge source="Gavin " target="Gaspode " id="8" weight="4.0" />
+      <edge source="Lady Sybil " target="Vimes " id="9" weight="6.0" />
+      <edge source="Cheery " target="Vimes " id="10" weight="7.0" />
+      <edge source="Sybil " target="Vimes " id="11" weight="14.0" />
+      <edge source="Sybil " target="Sam " id="12" weight="12.0" />
+      <edge source="Sybil " target="Lady " id="13" weight="6.0" />
+      <edge source="Sybil " target="Sam Vimes " id="14" weight="4.0" />
+      <edge source="Sybil " target="Serafine " id="15" weight="4.0" />
+      <edge source="Wolf " target="Vimes " id="16" weight="5.0" />
+      <edge source="Carrot " target="Vimes " id="17" weight="9.0" />
+      <edge source="Carrot " target="Angua " id="18" weight="9.0" />
+      <edge source="Carrot " target="Wolfgang " id="19" weight="9.0" />
+      <edge source="Carrot " target="Mister Vimes " id="20" weight="5.0" />
+      <edge source="Carrot " target="Gaspode " id="21" weight="15.0" />
+      <edge source="Lady Margolotta " target="Sir Samuel " id="22" weight="4.0" />
+      <edge source="Leonard " target="Vetinari " id="23" weight="7.0" />
+      <edge source="Lord " target="Vetinari " id="24" weight="9.0" />
+      <edge source="Dee " target="Vimes " id="25" weight="5.0" />
+      <edge source="Wolfgang " target="Vimes " id="26" weight="7.0" />
+      <edge source="Wolfgang " target="Angua " id="27" weight="7.0" />
+      <edge source="Inigo " target="Vimes " id="28" weight="15.0" />
+      <edge source="Angua " target="Vimes " id="29" weight="8.0" />
+      <edge source="Angua " target="Gaspode " id="30" weight="5.0" />
+      <edge source="Detritus " target="Vimes " id="31" weight="9.0" />
+      <edge source="Vimes " target="Tantony " id="32" weight="12.0" />
+      <edge source="Vimes " target="Igor " id="33" weight="18.0" />
+    </edges>
+  </graph>
+</gexf>

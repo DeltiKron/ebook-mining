@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Deep " label="Deep " />
+      <node id="Charlie " label="Charlie " />
+      <node id="Wuffles " label="Wuffles " />
+      <node id="Vetinari " label="Vetinari " />
+      <node id="William " label="William " />
+      <node id="Gunilla " label="Gunilla " />
+      <node id="Bone " label="Bone " />
+      <node id="Worde " label="Worde " />
+      <node id="Dibbler " label="Dibbler " />
+      <node id="Otto " label="Otto " />
+      <node id="Pin " label="Pin " />
+      <node id="Mrs Arcanum " label="Mrs Arcanum " />
+      <node id="Gleam Street " label="Gleam Street " />
+      <node id="Arcanum " label="Arcanum " />
+      <node id="Vimes " label="Vimes " />
+      <node id="Someone " label="Someone " />
+      <node id="Sacharissa " label="Sacharissa " />
+      <node id="Lord Vetinari " label="Lord Vetinari " />
+      <node id="Goodmountain " label="Goodmountain " />
+      <node id="Lord " label="Lord " />
+      <node id="Tulip " label="Tulip " />
+      <node id="Harry King " label="Harry King " />
+      <node id="Rocky " label="Rocky " />
+    </nodes>
+    <edges>
+      <edge source="Deep " target="Bone " id="0" weight="6.0" />
+      <edge source="Charlie " target="Pin " id="1" weight="5.0" />
+      <edge source="Wuffles " target="William " id="2" weight="9.0" />
+      <edge source="Vetinari " target="William " id="3" weight="8.0" />
+      <edge source="Vetinari " target="Lord " id="4" weight="12.0" />
+      <edge source="William " target="Dibbler " id="5" weight="10.0" />
+      <edge source="William " target="Goodmountain " id="6" weight="7.0" />
+      <edge source="William " target="Sacharissa " id="7" weight="31.0" />
+      <edge source="William " target="Otto " id="8" weight="23.0" />
+      <edge source="William " target="Pin " id="9" weight="4.0" />
+      <edge source="William " target="Vimes " id="10" weight="21.0" />
+      <edge source="William " target="Worde " id="11" weight="23.0" />
+      <edge source="William " target="Lord Vetinari " id="12" weight="20.0" />
+      <edge source="William " target="Arcanum " id="13" weight="7.0" />
+      <edge source="William " target="Someone " id="14" weight="4.0" />
+      <edge source="William " target="Harry King " id="15" weight="5.0" />
+      <edge source="William " target="Mrs Arcanum " id="16" weight="8.0" />
+      <edge source="William " target="Gunilla " id="17" weight="6.0" />
+      <edge source="William " target="Lord " id="18" weight="7.0" />
+      <edge source="William " target="Gleam Street " id="19" weight="5.0" />
+      <edge source="Worde " target="Vimes " id="20" weight="6.0" />
+      <edge source="Worde " target="Lord " id="21" weight="11.0" />
+      <edge source="Otto " target="Sacharissa " id="22" weight="8.0" />
+      <edge source="Pin " target="Tulip " id="23" weight="23.0" />
+      <edge source="Sacharissa " target="Rocky " id="24" weight="4.0" />
+    </edges>
+  </graph>
+</gexf>

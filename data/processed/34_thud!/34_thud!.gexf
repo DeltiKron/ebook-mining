@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Sergeant Colon " label="Sergeant Colon " />
+      <node id="Sir Reynold " label="Sir Reynold " />
+      <node id="Vetinari " label="Vetinari " />
+      <node id="Dat " label="Dat " />
+      <node id="Willikins " label="Willikins " />
+      <node id="Angua " label="Angua " />
+      <node id="Watch " label="Watch " />
+      <node id="Dwarfs " label="Dwarfs " />
+      <node id="Water " label="Water " />
+      <node id="Pessimal " label="Pessimal " />
+      <node id="Fred " label="Fred " />
+      <node id="Tawneee " label="Tawneee " />
+      <node id="Insert Name " label="Insert Name " />
+      <node id="Click " label="Click " />
+      <node id="Cheery " label="Cheery " />
+      <node id="Shine " label="Shine " />
+      <node id="Sam " label="Sam " />
+      <node id="Uberwald " label="Uberwald " />
+      <node id="Anyway " label="Anyway " />
+      <node id="Helmclever " label="Helmclever " />
+      <node id="Igor " label="Igor " />
+      <node id="Where " label="Where " />
+      <node id="Sybil " label="Sybil " />
+      <node id="Detritus " label="Detritus " />
+      <node id="Someone " label="Someone " />
+      <node id="Valley " label="Valley " />
+      <node id="Look " label="Look " />
+      <node id="Sam Vimes " label="Sam Vimes " />
+      <node id="Vimes " label="Vimes " />
+      <node id="Nobby Nobbs " label="Nobby Nobbs " />
+      <node id="Sally " label="Sally " />
+      <node id="Sir " label="Sir " />
+      <node id="Lady Sybil " label="Lady Sybil " />
+      <node id="Grag Hamcrusher " label="Grag Hamcrusher " />
+      <node id="Ardent " label="Ardent " />
+      <node id="Young Sam " label="Young Sam " />
+      <node id="Mister Vimes " label="Mister Vimes " />
+      <node id="Trolls " label="Trolls " />
+      <node id="Dark " label="Dark " />
+      <node id="Carrot " label="Carrot " />
+      <node id="Nobby " label="Nobby " />
+      <node id="Otto " label="Otto " />
+      <node id="Colon " label="Colon " />
+      <node id="Rascal " label="Rascal " />
+      <node id="Chrysoprase " label="Chrysoprase " />
+      <node id="Bashfullsson " label="Bashfullsson " />
+      <node id="Sorry " label="Sorry " />
+      <node id="Hamcrusher " label="Hamcrusher " />
+      <node id="Lord Vetinari " label="Lord Vetinari " />
+      <node id="Treacle Street " label="Treacle Street " />
+      <node id="Okay " label="Okay " />
+      <node id="Fred Colon " label="Fred Colon " />
+      <node id="Brick " label="Brick " />
+      <node id="Koom Valley " label="Koom Valley " />
+      <node id="Bunty " label="Bunty " />
+      <node id="Captain Carrot " label="Captain Carrot " />
+      <node id="Gods " label="Gods " />
+      <node id="Rhys " label="Rhys " />
+    </nodes>
+    <edges>
+      <edge source="Sergeant Colon " target="Fred Colon " id="0" weight="4.0" />
+      <edge source="Sergeant Colon " target="Fred " id="1" weight="4.0" />
+      <edge source="Sir Reynold " target="Nobby " id="2" weight="7.0" />
+      <edge source="Sir Reynold " target="Colon " id="3" weight="4.0" />
+      <edge source="Sir Reynold " target="Fred Colon " id="4" weight="7.0" />
+      <edge source="Sir Reynold " target="Rascal " id="5" weight="7.0" />
+      <edge source="Sir Reynold " target="Vimes " id="6" weight="7.0" />
+      <edge source="Sir Reynold " target="Sybil " id="7" weight="5.0" />
+      <edge source="Vetinari " target="Vimes " id="8" weight="22.0" />
+      <edge source="Vetinari " target="Nobby " id="9" weight="4.0" />
+      <edge source="Vetinari " target="Angua " id="10" weight="4.0" />
+      <edge source="Vetinari " target="Sally " id="11" weight="6.0" />
+      <edge source="Vetinari " target="Koom Valley " id="12" weight="8.0" />
+      <edge source="Vetinari " target="Carrot " id="13" weight="8.0" />
+      <edge source="Vetinari " target="Lord Vetinari " id="14" weight="6.0" />
+      <edge source="Dat " target="Vimes " id="15" weight="5.0" />
+      <edge source="Dat " target="Mister Vimes " id="16" weight="4.0" />
+      <edge source="Dat " target="Chrysoprase " id="17" weight="4.0" />
+      <edge source="Willikins " target="Sybil " id="18" weight="12.0" />
+      <edge source="Willikins " target="Sam Vimes " id="19" weight="5.0" />
+      <edge source="Willikins " target="Koom Valley " id="20" weight="6.0" />
+      <edge source="Willikins " target="Vimes " id="21" weight="22.0" />
+      <edge source="Willikins " target="Young Sam " id="22" weight="9.0" />
+      <edge source="Willikins " target="Sam " id="23" weight="6.0" />
+      <edge source="Willikins " target="Carrot " id="24" weight="4.0" />
+      <edge source="Willikins " target="Detritus " id="25" weight="4.0" />
+      <edge source="Angua " target="Mister Vimes " id="26" weight="7.0" />
+      <edge source="Angua " target="Vimes " id="27" weight="44.0" />
+      <edge source="Angua " target="Cheery " id="28" weight="14.0" />
+      <edge source="Angua " target="Sally " id="29" weight="33.0" />
+      <edge source="Angua " target="Nobby " id="30" weight="10.0" />
+      <edge source="Angua " target="Fred Colon " id="31" weight="4.0" />
+      <edge source="Angua " target="Fred " id="32" weight="7.0" />
+      <edge source="Angua " target="Nobby Nobbs " id="33" weight="5.0" />
+      <edge source="Angua " target="Carrot " id="34" weight="22.0" />
+      <edge source="Angua " target="Hamcrusher " id="35" weight="5.0" />
+      <edge source="Angua " target="Detritus " id="36" weight="11.0" />
+      <edge source="Angua " target="Treacle Street " id="37" weight="4.0" />
+      <edge source="Angua " target="Dwarfs " id="38" weight="4.0" />
+      <edge source="Angua " target="Koom Valley " id="39" weight="9.0" />
+      <edge source="Angua " target="Sybil " id="40" weight="11.0" />
+      <edge source="Angua " target="Okay " id="41" weight="5.0" />
+      <edge source="Angua " target="Helmclever " id="42" weight="4.0" />
+      <edge source="Angua " target="Ardent " id="43" weight="8.0" />
+      <edge source="Angua " target="Captain Carrot " id="44" weight="5.0" />
+      <edge source="Angua " target="Sam Vimes " id="45" weight="4.0" />
+      <edge source="Angua " target="Sam " id="46" weight="4.0" />
+      <edge source="Angua " target="Dark " id="47" weight="7.0" />
+      <edge source="Angua " target="Someone " id="48" weight="4.0" />
+      <edge source="Angua " target="Tawneee " id="49" weight="8.0" />
+      <edge source="Angua " target="Brick " id="50" weight="4.0" />
+      <edge source="Angua " target="Bashfullsson " id="51" weight="9.0" />
+      <edge source="Angua " target="Young Sam " id="52" weight="5.0" />
+      <edge source="Watch " target="Vimes " id="53" weight="6.0" />
+      <edge source="Dwarfs " target="Koom Valley " id="54" weight="6.0" />
+      <edge source="Dwarfs " target="Vimes " id="55" weight="14.0" />
+      <edge source="Dwarfs " target="Carrot " id="56" weight="5.0" />
+      <edge source="Water " target="Vimes " id="57" weight="5.0" />
+      <edge source="Pessimal " target="Vimes " id="58" weight="11.0" />
+      <edge source="Pessimal " target="Carrot " id="59" weight="4.0" />
+      <edge source="Fred " target="Mister Vimes " id="60" weight="6.0" />
+      <edge source="Fred " target="Fred Colon " id="61" weight="17.0" />
+      <edge source="Fred " target="Koom Valley " id="62" weight="6.0" />
+      <edge source="Fred " target="Vimes " id="63" weight="17.0" />
+      <edge source="Fred " target="Colon " id="64" weight="10.0" />
+      <edge source="Fred " target="Nobby " id="65" weight="18.0" />
+      <edge source="Fred " target="Nobby Nobbs " id="66" weight="4.0" />
+      <edge source="Fred " target="Tawneee " id="67" weight="5.0" />
+      <edge source="Fred " target="Bashfullsson " id="68" weight="5.0" />
+      <edge source="Fred " target="Detritus " id="69" weight="4.0" />
+      <edge source="Tawneee " target="Nobby " id="70" weight="8.0" />
+      <edge source="Tawneee " target="Colon " id="71" weight="4.0" />
+      <edge source="Tawneee " target="Nobby Nobbs " id="72" weight="4.0" />
+      <edge source="Tawneee " target="Sally " id="73" weight="6.0" />
+      <edge source="Tawneee " target="Cheery " id="74" weight="4.0" />
+      <edge source="Insert Name " target="Detritus " id="75" weight="5.0" />
+      <edge source="Insert Name " target="Vimes " id="76" weight="12.0" />
+      <edge source="Click " target="Vimes " id="77" weight="4.0" />
+      <edge source="Cheery " target="Mister Vimes " id="78" weight="5.0" />
+      <edge source="Cheery " target="Vimes " id="79" weight="20.0" />
+      <edge source="Cheery " target="Igor " id="80" weight="4.0" />
+      <edge source="Cheery " target="Sally " id="81" weight="9.0" />
+      <edge source="Cheery " target="Koom Valley " id="82" weight="9.0" />
+      <edge source="Cheery " target="Nobby Nobbs " id="83" weight="4.0" />
+      <edge source="Cheery " target="Nobby " id="84" weight="7.0" />
+      <edge source="Cheery " target="Detritus " id="85" weight="6.0" />
+      <edge source="Cheery " target="Sybil " id="86" weight="5.0" />
+      <edge source="Cheery " target="Bashfullsson " id="87" weight="7.0" />
+      <edge source="Shine " target="Mister Vimes " id="88" weight="4.0" />
+      <edge source="Shine " target="Detritus " id="89" weight="4.0" />
+      <edge source="Shine " target="Vimes " id="90" weight="11.0" />
+      <edge source="Shine " target="Koom Valley " id="91" weight="5.0" />
+      <edge source="Sam " target="Koom Valley " id="92" weight="6.0" />
+      <edge source="Sam " target="Vimes " id="93" weight="24.0" />
+      <edge source="Sam " target="Lady Sybil " id="94" weight="7.0" />
+      <edge source="Sam " target="Young Sam " id="95" weight="14.0" />
+      <edge source="Sam " target="Sally " id="96" weight="5.0" />
+      <edge source="Sam " target="Sybil " id="97" weight="19.0" />
+      <edge source="Sam " target="Carrot " id="98" weight="7.0" />
+      <edge source="Sam " target="Sam Vimes " id="99" weight="5.0" />
+      <edge source="Uberwald " target="Vimes " id="100" weight="4.0" />
+      <edge source="Anyway " target="Vimes " id="101" weight="5.0" />
+      <edge source="Helmclever " target="Vimes " id="102" weight="12.0" />
+      <edge source="Helmclever " target="Ardent " id="103" weight="8.0" />
+      <edge source="Helmclever " target="Bashfullsson " id="104" weight="4.0" />
+      <edge source="Igor " target="Nobby " id="105" weight="5.0" />
+      <edge source="Igor " target="Vimes " id="106" weight="11.0" />
+      <edge source="Where " target="Young Sam " id="107" weight="4.0" />
+      <edge source="Where " target="Vimes " id="108" weight="4.0" />
+      <edge source="Sybil " target="Sam Vimes " id="109" weight="7.0" />
+      <edge source="Sybil " target="Koom Valley " id="110" weight="7.0" />
+      <edge source="Sybil " target="Vimes " id="111" weight="44.0" />
+      <edge source="Sybil " target="Young Sam " id="112" weight="21.0" />
+      <edge source="Sybil " target="Lady Sybil " id="113" weight="8.0" />
+      <edge source="Sybil " target="Carrot " id="114" weight="12.0" />
+      <edge source="Sybil " target="Captain Carrot " id="115" weight="4.0" />
+      <edge source="Sybil " target="Sally " id="116" weight="6.0" />
+      <edge source="Sybil " target="Detritus " id="117" weight="5.0" />
+      <edge source="Sybil " target="Bunty " id="118" weight="5.0" />
+      <edge source="Detritus " target="Carrot " id="119" weight="6.0" />
+      <edge source="Detritus " target="Vimes " id="120" weight="37.0" />
+      <edge source="Detritus " target="Koom Valley " id="121" weight="8.0" />
+      <edge source="Detritus " target="Mister Vimes " id="122" weight="10.0" />
+      <edge source="Detritus " target="Brick " id="123" weight="8.0" />
+      <edge source="Detritus " target="Young Sam " id="124" weight="5.0" />
+      <edge source="Detritus " target="Bashfullsson " id="125" weight="4.0" />
+      <edge source="Someone " target="Vimes " id="126" weight="6.0" />
+      <edge source="Valley " target="Koom Valley " id="127" weight="4.0" />
+      <edge source="Valley " target="Vimes " id="128" weight="5.0" />
+      <edge source="Look " target="Vimes " id="129" weight="6.0" />
+      <edge source="Sam Vimes " target="Koom Valley " id="130" weight="4.0" />
+      <edge source="Sam Vimes " target="Vimes " id="131" weight="17.0" />
+      <edge source="Sam Vimes " target="Young Sam " id="132" weight="4.0" />
+      <edge source="Sam Vimes " target="Carrot " id="133" weight="5.0" />
+      <edge source="Sam Vimes " target="Rhys " id="134" weight="4.0" />
+      <edge source="Vimes " target="Grag Hamcrusher " id="135" weight="6.0" />
+      <edge source="Vimes " target="Koom Valley " id="136" weight="46.0" />
+      <edge source="Vimes " target="Young Sam " id="137" weight="31.0" />
+      <edge source="Vimes " target="Otto " id="138" weight="6.0" />
+      <edge source="Vimes " target="Mister Vimes " id="139" weight="29.0" />
+      <edge source="Vimes " target="Nobby " id="140" weight="22.0" />
+      <edge source="Vimes " target="Sally " id="141" weight="24.0" />
+      <edge source="Vimes " target="Fred Colon " id="142" weight="19.0" />
+      <edge source="Vimes " target="Carrot " id="143" weight="50.0" />
+      <edge source="Vimes " target="Colon " id="144" weight="6.0" />
+      <edge source="Vimes " target="Sir " id="145" weight="5.0" />
+      <edge source="Vimes " target="Gods " id="146" weight="4.0" />
+      <edge source="Vimes " target="Trolls " id="147" weight="6.0" />
+      <edge source="Vimes " target="Hamcrusher " id="148" weight="17.0" />
+      <edge source="Vimes " target="Captain Carrot " id="149" weight="12.0" />
+      <edge source="Vimes " target="Sorry " id="150" weight="4.0" />
+      <edge source="Vimes " target="Lady Sybil " id="151" weight="13.0" />
+      <edge source="Vimes " target="Lord Vetinari " id="152" weight="9.0" />
+      <edge source="Vimes " target="Ardent " id="153" weight="18.0" />
+      <edge source="Vimes " target="Brick " id="154" weight="17.0" />
+      <edge source="Vimes " target="Dark " id="155" weight="15.0" />
+      <edge source="Vimes " target="Chrysoprase " id="156" weight="7.0" />
+      <edge source="Vimes " target="Rhys " id="157" weight="6.0" />
+      <edge source="Vimes " target="Rascal " id="158" weight="8.0" />
+      <edge source="Vimes " target="Bashfullsson " id="159" weight="7.0" />
+      <edge source="Vimes " target="Bunty " id="160" weight="4.0" />
+      <edge source="Nobby Nobbs " target="Nobby " id="161" weight="8.0" />
+      <edge source="Nobby Nobbs " target="Sally " id="162" weight="5.0" />
+      <edge source="Sally " target="Mister Vimes " id="163" weight="4.0" />
+      <edge source="Sally " target="Carrot " id="164" weight="15.0" />
+      <edge source="Sally " target="Lady Sybil " id="165" weight="4.0" />
+      <edge source="Sally " target="Young Sam " id="166" weight="6.0" />
+      <edge source="Sally " target="Koom Valley " id="167" weight="7.0" />
+      <edge source="Sally " target="Nobby " id="168" weight="7.0" />
+      <edge source="Sir " target="Carrot " id="169" weight="4.0" />
+      <edge source="Lady Sybil " target="Young Sam " id="170" weight="6.0" />
+      <edge source="Lady Sybil " target="Carrot " id="171" weight="5.0" />
+      <edge source="Grag Hamcrusher " target="Hamcrusher " id="172" weight="4.0" />
+      <edge source="Ardent " target="Hamcrusher " id="173" weight="5.0" />
+      <edge source="Ardent " target="Carrot " id="174" weight="6.0" />
+      <edge source="Ardent " target="Bashfullsson " id="175" weight="4.0" />
+      <edge source="Young Sam " target="Carrot " id="176" weight="4.0" />
+      <edge source="Young Sam " target="Koom Valley " id="177" weight="5.0" />
+      <edge source="Young Sam " target="Nobby " id="178" weight="4.0" />
+      <edge source="Mister Vimes " target="Fred Colon " id="179" weight="6.0" />
+      <edge source="Mister Vimes " target="Koom Valley " id="180" weight="8.0" />
+      <edge source="Mister Vimes " target="Nobby " id="181" weight="5.0" />
+      <edge source="Mister Vimes " target="Carrot " id="182" weight="8.0" />
+      <edge source="Mister Vimes " target="Chrysoprase " id="183" weight="6.0" />
+      <edge source="Mister Vimes " target="Captain Carrot " id="184" weight="4.0" />
+      <edge source="Mister Vimes " target="Bashfullsson " id="185" weight="4.0" />
+      <edge source="Dark " target="Carrot " id="186" weight="7.0" />
+      <edge source="Dark " target="Koom Valley " id="187" weight="4.0" />
+      <edge source="Dark " target="Bashfullsson " id="188" weight="6.0" />
+      <edge source="Carrot " target="Nobby " id="189" weight="6.0" />
+      <edge source="Carrot " target="Fred Colon " id="190" weight="5.0" />
+      <edge source="Carrot " target="Captain Carrot " id="191" weight="9.0" />
+      <edge source="Carrot " target="Hamcrusher " id="192" weight="9.0" />
+      <edge source="Carrot " target="Koom Valley " id="193" weight="7.0" />
+      <edge source="Carrot " target="Brick " id="194" weight="4.0" />
+      <edge source="Nobby " target="Fred Colon " id="195" weight="19.0" />
+      <edge source="Nobby " target="Colon " id="196" weight="13.0" />
+      <edge source="Nobby " target="Koom Valley " id="197" weight="6.0" />
+      <edge source="Nobby " target="Bashfullsson " id="198" weight="6.0" />
+      <edge source="Colon " target="Fred Colon " id="199" weight="10.0" />
+      <edge source="Rascal " target="Koom Valley " id="200" weight="4.0" />
+      <edge source="Bashfullsson " target="Fred Colon " id="201" weight="4.0" />
+      <edge source="Bashfullsson " target="Koom Valley " id="202" weight="9.0" />
+      <edge source="Fred Colon " target="Koom Valley " id="203" weight="7.0" />
+      <edge source="Koom Valley " target="Captain Carrot " id="204" weight="5.0" />
+    </edges>
+  </graph>
+</gexf>

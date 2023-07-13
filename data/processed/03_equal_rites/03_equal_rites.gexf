@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Amschat " label="Amschat " />
+      <node id="Cutangle " label="Cutangle " />
+      <node id="Magic " label="Magic " />
+      <node id="Skiller " label="Skiller " />
+      <node id="Mrs Whitlow " label="Mrs Whitlow " />
+      <node id="Esk " label="Esk " />
+      <node id="Treatle " label="Treatle " />
+      <node id="Whitlow " label="Whitlow " />
+      <node id="Simon " label="Simon " />
+      <node id="Aye " label="Aye " />
+      <node id="Granny " label="Granny " />
+      <node id="Smith " label="Smith " />
+      <node id="Granny Weatherwax " label="Granny Weatherwax " />
+      <node id="Hilta " label="Hilta " />
+    </nodes>
+    <edges>
+      <edge source="Amschat " target="Esk " id="0" weight="4.0" />
+      <edge source="Cutangle " target="Simon " id="1" weight="4.0" />
+      <edge source="Cutangle " target="Granny " id="2" weight="14.0" />
+      <edge source="Magic " target="Esk " id="3" weight="4.0" />
+      <edge source="Magic " target="Granny " id="4" weight="5.0" />
+      <edge source="Skiller " target="Esk " id="5" weight="4.0" />
+      <edge source="Mrs Whitlow " target="Aye " id="6" weight="6.0" />
+      <edge source="Esk " target="Granny Weatherwax " id="7" weight="4.0" />
+      <edge source="Esk " target="Granny " id="8" weight="57.0" />
+      <edge source="Esk " target="Treatle " id="9" weight="4.0" />
+      <edge source="Esk " target="Simon " id="10" weight="20.0" />
+      <edge source="Treatle " target="Simon " id="11" weight="6.0" />
+      <edge source="Whitlow " target="Granny " id="12" weight="4.0" />
+      <edge source="Simon " target="Granny " id="13" weight="4.0" />
+      <edge source="Granny " target="Smith " id="14" weight="4.0" />
+      <edge source="Granny " target="Hilta " id="15" weight="8.0" />
+    </edges>
+  </graph>
+</gexf>

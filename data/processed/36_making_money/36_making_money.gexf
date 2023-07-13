@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Professor Flead " label="Professor Flead " />
+      <node id="Vetinari " label="Vetinari " />
+      <node id="Shady " label="Shady " />
+      <node id="Death " label="Death " />
+      <node id="Mrs Lavish " label="Mrs Lavish " />
+      <node id="Heretofore " label="Heretofore " />
+      <node id="Harry " label="Harry " />
+      <node id="Drumknott " label="Drumknott " />
+      <node id="Lavish " label="Lavish " />
+      <node id="Cosmo Lavish " label="Cosmo Lavish " />
+      <node id="Moist " label="Moist " />
+      <node id="Mrs Cake " label="Mrs Cake " />
+      <node id="Bellyster " label="Bellyster " />
+      <node id="Igor " label="Igor " />
+      <node id="Fusspot " label="Fusspot " />
+      <node id="Bent " label="Bent " />
+      <node id="Hubert " label="Hubert " />
+      <node id="Pucci " label="Pucci " />
+      <node id="Owlswick Jenkins " label="Owlswick Jenkins " />
+      <node id="Sir Joshua " label="Sir Joshua " />
+      <node id="Flead " label="Flead " />
+      <node id="Okay " label="Okay " />
+      <node id="Lipwig " label="Lipwig " />
+      <node id="Harry King " label="Harry King " />
+      <node id="Albert Spangler " label="Albert Spangler " />
+      <node id="Josephine " label="Josephine " />
+      <node id="Guild " label="Guild " />
+      <node id="Cosmo " label="Cosmo " />
+      <node id="Master " label="Master " />
+      <node id="Miss Dearheart " label="Miss Dearheart " />
+      <node id="Mavolio Bent " label="Mavolio Bent " />
+      <node id="Peggy " label="Peggy " />
+      <node id="Anyway " label="Anyway " />
+      <node id="Miss Drapes " label="Miss Drapes " />
+      <node id="Cake " label="Cake " />
+      <node id="Vimes " label="Vimes " />
+      <node id="Captain Carrot " label="Captain Carrot " />
+      <node id="Lord Vetinari " label="Lord Vetinari " />
+      <node id="Gladys " label="Gladys " />
+      <node id="Sacharissa " label="Sacharissa " />
+      <node id="Stanley " label="Stanley " />
+      <node id="Nobby Nobbs " label="Nobby Nobbs " />
+      <node id="Owlswick " label="Owlswick " />
+      <node id="Ponder " label="Ponder " />
+      <node id="Hicks " label="Hicks " />
+      <node id="Carrot " label="Carrot " />
+      <node id="Aimsbury " label="Aimsbury " />
+      <node id="Cranberry " label="Cranberry " />
+      <node id="Cribbins " label="Cribbins " />
+      <node id="Adora Belle " label="Adora Belle " />
+      <node id="Jenkins " label="Jenkins " />
+      <node id="Everyone " label="Everyone " />
+      <node id="Topsy " label="Topsy " />
+      <node id="Anoia " label="Anoia " />
+      <node id="Slant " label="Slant " />
+    </nodes>
+    <edges>
+      <edge source="Professor Flead " target="Adora Belle " id="0" weight="6.0" />
+      <edge source="Professor Flead " target="Moist " id="1" weight="7.0" />
+      <edge source="Vetinari " target="Moist " id="2" weight="53.0" />
+      <edge source="Vetinari " target="Lipwig " id="3" weight="18.0" />
+      <edge source="Vetinari " target="Drumknott " id="4" weight="23.0" />
+      <edge source="Vetinari " target="Lord Vetinari " id="5" weight="19.0" />
+      <edge source="Vetinari " target="Guild " id="6" weight="5.0" />
+      <edge source="Vetinari " target="Gladys " id="7" weight="5.0" />
+      <edge source="Vetinari " target="Lavish " id="8" weight="7.0" />
+      <edge source="Vetinari " target="Miss Dearheart " id="9" weight="6.0" />
+      <edge source="Vetinari " target="Adora Belle " id="10" weight="18.0" />
+      <edge source="Vetinari " target="Bent " id="11" weight="10.0" />
+      <edge source="Vetinari " target="Death " id="12" weight="4.0" />
+      <edge source="Vetinari " target="Mrs Lavish " id="13" weight="4.0" />
+      <edge source="Vetinari " target="Fusspot " id="14" weight="5.0" />
+      <edge source="Vetinari " target="Heretofore " id="15" weight="9.0" />
+      <edge source="Vetinari " target="Cosmo " id="16" weight="26.0" />
+      <edge source="Vetinari " target="Cosmo Lavish " id="17" weight="4.0" />
+      <edge source="Vetinari " target="Cranberry " id="18" weight="7.0" />
+      <edge source="Vetinari " target="Pucci " id="19" weight="8.0" />
+      <edge source="Vetinari " target="Miss Drapes " id="20" weight="6.0" />
+      <edge source="Vetinari " target="Vimes " id="21" weight="4.0" />
+      <edge source="Vetinari " target="Slant " id="22" weight="4.0" />
+      <edge source="Shady " target="Moist " id="23" weight="7.0" />
+      <edge source="Shady " target="Bent " id="24" weight="7.0" />
+      <edge source="Death " target="Moist " id="25" weight="4.0" />
+      <edge source="Mrs Lavish " target="Moist " id="26" weight="13.0" />
+      <edge source="Mrs Lavish " target="Lavish " id="27" weight="6.0" />
+      <edge source="Mrs Lavish " target="Fusspot " id="28" weight="5.0" />
+      <edge source="Mrs Lavish " target="Bent " id="29" weight="5.0" />
+      <edge source="Mrs Lavish " target="Topsy " id="30" weight="4.0" />
+      <edge source="Heretofore " target="Lord Vetinari " id="31" weight="4.0" />
+      <edge source="Heretofore " target="Moist " id="32" weight="4.0" />
+      <edge source="Heretofore " target="Cosmo " id="33" weight="12.0" />
+      <edge source="Heretofore " target="Cranberry " id="34" weight="5.0" />
+      <edge source="Harry " target="Moist " id="35" weight="5.0" />
+      <edge source="Harry " target="Harry King " id="36" weight="5.0" />
+      <edge source="Drumknott " target="Moist " id="37" weight="21.0" />
+      <edge source="Drumknott " target="Lipwig " id="38" weight="6.0" />
+      <edge source="Drumknott " target="Lord Vetinari " id="39" weight="10.0" />
+      <edge source="Drumknott " target="Bent " id="40" weight="4.0" />
+      <edge source="Drumknott " target="Cosmo " id="41" weight="7.0" />
+      <edge source="Drumknott " target="Vimes " id="42" weight="4.0" />
+      <edge source="Lavish " target="Moist " id="43" weight="13.0" />
+      <edge source="Lavish " target="Fusspot " id="44" weight="4.0" />
+      <edge source="Lavish " target="Bent " id="45" weight="5.0" />
+      <edge source="Cosmo Lavish " target="Lord Vetinari " id="46" weight="4.0" />
+      <edge source="Cosmo Lavish " target="Moist " id="47" weight="11.0" />
+      <edge source="Cosmo Lavish " target="Cosmo " id="48" weight="10.0" />
+      <edge source="Moist " target="Lipwig " id="49" weight="28.0" />
+      <edge source="Moist " target="Okay " id="50" weight="6.0" />
+      <edge source="Moist " target="Gladys " id="51" weight="9.0" />
+      <edge source="Moist " target="Owlswick Jenkins " id="52" weight="6.0" />
+      <edge source="Moist " target="Lord Vetinari " id="53" weight="28.0" />
+      <edge source="Moist " target="Guild " id="54" weight="6.0" />
+      <edge source="Moist " target="Albert Spangler " id="55" weight="6.0" />
+      <edge source="Moist " target="Master " id="56" weight="8.0" />
+      <edge source="Moist " target="Miss Dearheart " id="57" weight="11.0" />
+      <edge source="Moist " target="Mavolio Bent " id="58" weight="4.0" />
+      <edge source="Moist " target="Adora Belle " id="59" weight="5.0" />
+      <edge source="Moist " target="Bent " id="60" weight="43.0" />
+      <edge source="Moist " target="Fusspot " id="61" weight="18.0" />
+      <edge source="Moist " target="Topsy " id="62" weight="6.0" />
+      <edge source="Moist " target="Hubert " id="63" weight="18.0" />
+      <edge source="Moist " target="Sir Joshua " id="64" weight="6.0" />
+      <edge source="Moist " target="Miss Drapes " id="65" weight="18.0" />
+      <edge source="Moist " target="Igor " id="66" weight="23.0" />
+      <edge source="Moist " target="Pucci " id="67" weight="11.0" />
+      <edge source="Moist " target="Cosmo " id="68" weight="28.0" />
+      <edge source="Moist " target="Stanley " id="69" weight="5.0" />
+      <edge source="Moist " target="Nobby Nobbs " id="70" weight="6.0" />
+      <edge source="Moist " target="Slant " id="71" weight="6.0" />
+      <edge source="Moist " target="Sacharissa " id="72" weight="10.0" />
+      <edge source="Moist " target="Peggy " id="73" weight="8.0" />
+      <edge source="Moist " target="Aimsbury " id="74" weight="6.0" />
+      <edge source="Moist " target="Anyway " id="75" weight="4.0" />
+      <edge source="Moist " target="Everyone " id="76" weight="4.0" />
+      <edge source="Moist " target="Harry King " id="77" weight="8.0" />
+      <edge source="Moist " target="Jenkins " id="78" weight="4.0" />
+      <edge source="Moist " target="Owlswick " id="79" weight="12.0" />
+      <edge source="Moist " target="Bellyster " id="80" weight="4.0" />
+      <edge source="Moist " target="Cribbins " id="81" weight="13.0" />
+      <edge source="Moist " target="Ponder " id="82" weight="5.0" />
+      <edge source="Moist " target="Hicks " id="83" weight="4.0" />
+      <edge source="Moist " target="Flead " id="84" weight="13.0" />
+      <edge source="Moist " target="Anoia " id="85" weight="4.0" />
+      <edge source="Moist " target="Captain Carrot " id="86" weight="5.0" />
+      <edge source="Moist " target="Carrot " id="87" weight="4.0" />
+      <edge source="Moist " target="Vimes " id="88" weight="9.0" />
+      <edge source="Mrs Cake " target="Cake " id="89" weight="4.0" />
+      <edge source="Igor " target="Hubert " id="90" weight="14.0" />
+      <edge source="Igor " target="Owlswick " id="91" weight="7.0" />
+      <edge source="Igor " target="Miss Drapes " id="92" weight="4.0" />
+      <edge source="Igor " target="Adora Belle " id="93" weight="5.0" />
+      <edge source="Fusspot " target="Bent " id="94" weight="4.0" />
+      <edge source="Fusspot " target="Gladys " id="95" weight="4.0" />
+      <edge source="Fusspot " target="Cosmo " id="96" weight="4.0" />
+      <edge source="Bent " target="Mavolio Bent " id="97" weight="5.0" />
+      <edge source="Bent " target="Adora Belle " id="98" weight="4.0" />
+      <edge source="Bent " target="Master " id="99" weight="5.0" />
+      <edge source="Bent " target="Hubert " id="100" weight="7.0" />
+      <edge source="Bent " target="Miss Drapes " id="101" weight="7.0" />
+      <edge source="Bent " target="Lipwig " id="102" weight="9.0" />
+      <edge source="Bent " target="Cosmo " id="103" weight="8.0" />
+      <edge source="Bent " target="Cribbins " id="104" weight="4.0" />
+      <edge source="Hubert " target="Adora Belle " id="105" weight="5.0" />
+      <edge source="Pucci " target="Cosmo " id="106" weight="11.0" />
+      <edge source="Pucci " target="Lipwig " id="107" weight="6.0" />
+      <edge source="Flead " target="Adora Belle " id="108" weight="10.0" />
+      <edge source="Flead " target="Hicks " id="109" weight="5.0" />
+      <edge source="Lipwig " target="Lord Vetinari " id="110" weight="7.0" />
+      <edge source="Lipwig " target="Gladys " id="111" weight="5.0" />
+      <edge source="Lipwig " target="Albert Spangler " id="112" weight="4.0" />
+      <edge source="Lipwig " target="Cosmo " id="113" weight="10.0" />
+      <edge source="Lipwig " target="Mavolio Bent " id="114" weight="4.0" />
+      <edge source="Lipwig " target="Adora Belle " id="115" weight="7.0" />
+      <edge source="Albert Spangler " target="Lord Vetinari " id="116" weight="4.0" />
+      <edge source="Josephine " target="Cosmo " id="117" weight="4.0" />
+      <edge source="Cosmo " target="Lord Vetinari " id="118" weight="11.0" />
+      <edge source="Cosmo " target="Cranberry " id="119" weight="7.0" />
+      <edge source="Cosmo " target="Mavolio Bent " id="120" weight="4.0" />
+      <edge source="Cosmo " target="Adora Belle " id="121" weight="7.0" />
+      <edge source="Cosmo " target="Vimes " id="122" weight="4.0" />
+      <edge source="Cosmo " target="Cribbins " id="123" weight="4.0" />
+      <edge source="Cosmo " target="Miss Drapes " id="124" weight="4.0" />
+      <edge source="Miss Dearheart " target="Adora Belle " id="125" weight="8.0" />
+      <edge source="Peggy " target="Aimsbury " id="126" weight="5.0" />
+      <edge source="Lord Vetinari " target="Adora Belle " id="127" weight="4.0" />
+      <edge source="Gladys " target="Adora Belle " id="128" weight="5.0" />
+      <edge source="Ponder " target="Adora Belle " id="129" weight="6.0" />
+      <edge source="Hicks " target="Adora Belle " id="130" weight="6.0" />
+      <edge source="Aimsbury " target="Adora Belle " id="131" weight="4.0" />
+      <edge source="Cribbins " target="Adora Belle " id="132" weight="7.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Granny Weatherwax " label="Granny Weatherwax " />
+      <node id="Shawn " label="Shawn " />
+      <node id="Sorry " label="Sorry " />
+      <node id="Gytha " label="Gytha " />
+      <node id="Granny " label="Granny " />
+      <node id="Nanny Ogg " label="Nanny Ogg " />
+      <node id="Esme " label="Esme " />
+      <node id="Diamanda " label="Diamanda " />
+      <node id="Nanny " label="Nanny " />
+      <node id="Casanunda " label="Casanunda " />
+      <node id="Ogg " label="Ogg " />
+      <node id="Millie " label="Millie " />
+      <node id="Mum " label="Mum " />
+      <node id="Esme Weatherwax " label="Esme Weatherwax " />
+      <node id="Magrat " label="Magrat " />
+      <node id="Weatherwax " label="Weatherwax " />
+      <node id="Mr. Stibbons " label="Mr. Stibbons " />
+      <node id="Carter " label="Carter " />
+      <node id="Ridcully " label="Ridcully " />
+      <node id="Verence " label="Verence " />
+      <node id="Jason " label="Jason " />
+    </nodes>
+    <edges>
+      <edge source="Granny Weatherwax " target="Nanny Ogg " id="0" weight="10.0" />
+      <edge source="Granny Weatherwax " target="Magrat " id="1" weight="4.0" />
+      <edge source="Granny Weatherwax " target="Nanny " id="2" weight="5.0" />
+      <edge source="Shawn " target="Magrat " id="3" weight="16.0" />
+      <edge source="Shawn " target="Nanny Ogg " id="4" weight="5.0" />
+      <edge source="Shawn " target="Mum " id="5" weight="5.0" />
+      <edge source="Shawn " target="Nanny " id="6" weight="4.0" />
+      <edge source="Shawn " target="Diamanda " id="7" weight="4.0" />
+      <edge source="Sorry " target="Esme " id="8" weight="4.0" />
+      <edge source="Gytha " target="Granny " id="9" weight="8.0" />
+      <edge source="Granny " target="Magrat " id="10" weight="6.0" />
+      <edge source="Granny " target="Nanny Ogg " id="11" weight="6.0" />
+      <edge source="Granny " target="Nanny " id="12" weight="8.0" />
+      <edge source="Granny " target="Weatherwax " id="13" weight="4.0" />
+      <edge source="Granny " target="Ogg " id="14" weight="5.0" />
+      <edge source="Granny " target="Diamanda " id="15" weight="4.0" />
+      <edge source="Nanny Ogg " target="Magrat " id="16" weight="8.0" />
+      <edge source="Nanny Ogg " target="Esme " id="17" weight="7.0" />
+      <edge source="Nanny Ogg " target="Esme Weatherwax " id="18" weight="4.0" />
+      <edge source="Nanny Ogg " target="Jason " id="19" weight="4.0" />
+      <edge source="Nanny Ogg " target="Nanny " id="20" weight="5.0" />
+      <edge source="Nanny Ogg " target="Casanunda " id="21" weight="5.0" />
+      <edge source="Esme " target="Nanny " id="22" weight="4.0" />
+      <edge source="Diamanda " target="Magrat " id="23" weight="4.0" />
+      <edge source="Nanny " target="Ogg " id="24" weight="61.0" />
+      <edge source="Nanny " target="Magrat " id="25" weight="8.0" />
+      <edge source="Nanny " target="Casanunda " id="26" weight="5.0" />
+      <edge source="Nanny " target="Jason " id="27" weight="5.0" />
+      <edge source="Ogg " target="Jason " id="28" weight="8.0" />
+      <edge source="Millie " target="Magrat " id="29" weight="4.0" />
+      <edge source="Magrat " target="Verence " id="30" weight="6.0" />
+      <edge source="Mr. Stibbons " target="Ridcully " id="31" weight="4.0" />
+      <edge source="Carter " target="Jason " id="32" weight="4.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Miss Sugarbean " label="Miss Sugarbean " />
+      <node id="Carter " label="Carter " />
+      <node id="Ridcully " label="Ridcully " />
+      <node id="Smeems " label="Smeems " />
+      <node id="Trev Likely " label="Trev Likely " />
+      <node id="Whitlow " label="Whitlow " />
+      <node id="Mister Trev " label="Mister Trev " />
+      <node id="Juliet " label="Juliet " />
+      <node id="Nutt " label="Nutt " />
+      <node id="Ponder Stibbons " label="Ponder Stibbons " />
+      <node id="Gobbo " label="Gobbo " />
+      <node id="Pepe " label="Pepe " />
+      <node id="Archchancellor " label="Archchancellor " />
+      <node id="Miss Glenda " label="Miss Glenda " />
+      <node id="Trevor Likely " label="Trevor Likely " />
+      <node id="Lord Vetinari " label="Lord Vetinari " />
+      <node id="Jools " label="Jools " />
+      <node id="Ladyship " label="Ladyship " />
+      <node id="Glenda " label="Glenda " />
+      <node id="Don " label="Don " />
+      <node id="Lord " label="Lord " />
+      <node id="Ponder " label="Ponder " />
+      <node id="Vetinari " label="Vetinari " />
+      <node id="Mrs Whitlow " label="Mrs Whitlow " />
+      <node id="Trev " label="Trev " />
+      <node id="Mister Nutt " label="Mister Nutt " />
+      <node id="Drumknott " label="Drumknott " />
+      <node id="Andy " label="Andy " />
+      <node id="Miss Healstether " label="Miss Healstether " />
+      <node id="Madame " label="Madame " />
+      <node id="Mister Stibbons " label="Mister Stibbons " />
+    </nodes>
+    <edges>
+      <edge source="Miss Sugarbean " target="Vetinari " id="0" weight="5.0" />
+      <edge source="Miss Sugarbean " target="Mister Nutt " id="1" weight="4.0" />
+      <edge source="Carter " target="Andy " id="2" weight="6.0" />
+      <edge source="Carter " target="Trev " id="3" weight="7.0" />
+      <edge source="Ridcully " target="Ponder " id="4" weight="5.0" />
+      <edge source="Ridcully " target="Mister Stibbons " id="5" weight="7.0" />
+      <edge source="Ridcully " target="Vetinari " id="6" weight="5.0" />
+      <edge source="Ridcully " target="Miss Glenda " id="7" weight="4.0" />
+      <edge source="Ridcully " target="Mister Nutt " id="8" weight="6.0" />
+      <edge source="Smeems " target="Nutt " id="9" weight="4.0" />
+      <edge source="Trev Likely " target="Trev " id="10" weight="4.0" />
+      <edge source="Whitlow " target="Glenda " id="11" weight="4.0" />
+      <edge source="Mister Trev " target="Nutt " id="12" weight="25.0" />
+      <edge source="Juliet " target="Glenda " id="13" weight="47.0" />
+      <edge source="Juliet " target="Nutt " id="14" weight="9.0" />
+      <edge source="Juliet " target="Trev " id="15" weight="24.0" />
+      <edge source="Juliet " target="Pepe " id="16" weight="4.0" />
+      <edge source="Nutt " target="Trev " id="17" weight="57.0" />
+      <edge source="Nutt " target="Miss Healstether " id="18" weight="4.0" />
+      <edge source="Nutt " target="Mister Nutt " id="19" weight="5.0" />
+      <edge source="Nutt " target="Don " id="20" weight="7.0" />
+      <edge source="Nutt " target="Miss Glenda " id="21" weight="9.0" />
+      <edge source="Nutt " target="Ladyship " id="22" weight="7.0" />
+      <edge source="Nutt " target="Glenda " id="23" weight="4.0" />
+      <edge source="Nutt " target="Andy " id="24" weight="22.0" />
+      <edge source="Nutt " target="Ponder " id="25" weight="9.0" />
+      <edge source="Ponder Stibbons " target="Ponder " id="26" weight="4.0" />
+      <edge source="Gobbo " target="Trev " id="27" weight="5.0" />
+      <edge source="Pepe " target="Madame " id="28" weight="7.0" />
+      <edge source="Pepe " target="Glenda " id="29" weight="7.0" />
+      <edge source="Pepe " target="Trev " id="30" weight="11.0" />
+      <edge source="Archchancellor " target="Ponder " id="31" weight="18.0" />
+      <edge source="Trevor Likely " target="Trev " id="32" weight="4.0" />
+      <edge source="Lord Vetinari " target="Glenda " id="33" weight="4.0" />
+      <edge source="Jools " target="Glenda " id="34" weight="4.0" />
+      <edge source="Glenda " target="Mrs Whitlow " id="35" weight="9.0" />
+      <edge source="Glenda " target="Trev " id="36" weight="47.0" />
+      <edge source="Glenda " target="Mister Nutt " id="37" weight="19.0" />
+      <edge source="Glenda " target="Don " id="38" weight="4.0" />
+      <edge source="Glenda " target="Madame " id="39" weight="5.0" />
+      <edge source="Don " target="Trev " id="40" weight="9.0" />
+      <edge source="Lord " target="Vetinari " id="41" weight="4.0" />
+      <edge source="Ponder " target="Mister Nutt " id="42" weight="7.0" />
+      <edge source="Vetinari " target="Drumknott " id="43" weight="5.0" />
+      <edge source="Vetinari " target="Mister Nutt " id="44" weight="4.0" />
+      <edge source="Vetinari " target="Trev " id="45" weight="4.0" />
+      <edge source="Trev " target="Andy " id="46" weight="32.0" />
+      <edge source="Trev " target="Mister Nutt " id="47" weight="12.0" />
+    </edges>
+  </graph>
+</gexf>

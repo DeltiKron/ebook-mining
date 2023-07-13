@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Eric " label="Eric " />
+      <node id="Quirm " label="Quirm " />
+      <node id="Sorry " label="Sorry " />
+      <node id="Astfgl " label="Astfgl " />
+      <node id="Lavaeolus " label="Lavaeolus " />
+      <node id="Rincewind " label="Rincewind " />
+      <node id="Elenor " label="Elenor " />
+      <node id="Vassenego " label="Vassenego " />
+    </nodes>
+    <edges>
+      <edge source="Eric " target="Rincewind " id="0" weight="34.0" />
+      <edge source="Eric " target="Elenor " id="1" weight="4.0" />
+      <edge source="Eric " target="Lavaeolus " id="2" weight="6.0" />
+      <edge source="Quirm " target="Rincewind " id="3" weight="4.0" />
+      <edge source="Sorry " target="Rincewind " id="4" weight="4.0" />
+      <edge source="Astfgl " target="Vassenego " id="5" weight="5.0" />
+      <edge source="Lavaeolus " target="Rincewind " id="6" weight="6.0" />
+    </edges>
+  </graph>
+</gexf>

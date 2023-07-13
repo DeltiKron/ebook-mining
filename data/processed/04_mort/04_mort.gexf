@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Cutwell " label="Cutwell " />
+      <node id="Mort " label="Mort " />
+      <node id="Binky " label="Binky " />
+      <node id="Sto Lat " label="Sto Lat " />
+      <node id="Keli " label="Keli " />
+      <node id="Albert " label="Albert " />
+      <node id="Ysabell " label="Ysabell " />
+      <node id="Death " label="Death " />
+    </nodes>
+    <edges>
+      <edge source="Cutwell " target="Mort " id="0" weight="5.0" />
+      <edge source="Mort " target="Death " id="1" weight="59.0" />
+      <edge source="Mort " target="Albert " id="2" weight="24.0" />
+      <edge source="Mort " target="Binky " id="3" weight="12.0" />
+      <edge source="Mort " target="Sto Lat " id="4" weight="4.0" />
+      <edge source="Mort " target="Keli " id="5" weight="4.0" />
+      <edge source="Mort " target="Ysabell " id="6" weight="21.0" />
+      <edge source="Binky " target="Ysabell " id="7" weight="5.0" />
+      <edge source="Keli " target="Ysabell " id="8" weight="5.0" />
+      <edge source="Albert " target="Death " id="9" weight="8.0" />
+      <edge source="Albert " target="Ysabell " id="10" weight="8.0" />
+      <edge source="Ysabell " target="Death " id="11" weight="6.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Ronnie Soak " label="Ronnie Soak " />
+      <node id="Lobsang " label="Lobsang " />
+      <node id="Sweeper " label="Sweeper " />
+      <node id="Susan " label="Susan " />
+      <node id="Jeremy " label="Jeremy " />
+      <node id="White " label="White " />
+      <node id="Miss Tangerine " label="Miss Tangerine " />
+      <node id="Pestilence " label="Pestilence " />
+      <node id="Ronnie " label="Ronnie " />
+      <node id="Jason " label="Jason " />
+      <node id="Igors " label="Igors " />
+      <node id="Rats " label="Rats " />
+      <node id="Auditor " label="Auditor " />
+      <node id="Tick " label="Tick " />
+      <node id="Chaos " label="Chaos " />
+      <node id="Grim Fairy Tales " label="Grim Fairy Tales " />
+      <node id="Which " label="Which " />
+      <node id="Rule One " label="Rule One " />
+      <node id="Igor " label="Igor " />
+      <node id="Lady LeJean " label="Lady LeJean " />
+      <node id="Clodpool " label="Clodpool " />
+      <node id="Miss Susan " label="Miss Susan " />
+      <node id="Wen " label="Wen " />
+      <node id="Hopkins " label="Hopkins " />
+      <node id="Unity " label="Unity " />
+      <node id="Death " label="Death " />
+      <node id="Time " label="Time " />
+      <node id="Famine " label="Famine " />
+      <node id="Mrs Ogg " label="Mrs Ogg " />
+      <node id="Madam Frout " label="Madam Frout " />
+      <node id="War " label="War " />
+      <node id="Binky " label="Binky " />
+    </nodes>
+    <edges>
+      <edge source="Ronnie Soak " target="Ronnie " id="0" weight="6.0" />
+      <edge source="Lobsang " target="Sweeper " id="1" weight="4.0" />
+      <edge source="Lobsang " target="Tick " id="2" weight="5.0" />
+      <edge source="Lobsang " target="Igor " id="3" weight="4.0" />
+      <edge source="Lobsang " target="Wen " id="4" weight="10.0" />
+      <edge source="Lobsang " target="Death " id="5" weight="8.0" />
+      <edge source="Lobsang " target="Susan " id="6" weight="9.0" />
+      <edge source="Lobsang " target="Time " id="7" weight="7.0" />
+      <edge source="Lobsang " target="Rule One " id="8" weight="4.0" />
+      <edge source="Lobsang " target="Lady LeJean " id="9" weight="9.0" />
+      <edge source="Lobsang " target="Unity " id="10" weight="6.0" />
+      <edge source="Susan " target="Miss Susan " id="11" weight="8.0" />
+      <edge source="Susan " target="Madam Frout " id="12" weight="5.0" />
+      <edge source="Susan " target="Jason " id="13" weight="7.0" />
+      <edge source="Susan " target="Which " id="14" weight="4.0" />
+      <edge source="Susan " target="Rats " id="15" weight="6.0" />
+      <edge source="Susan " target="Death " id="16" weight="26.0" />
+      <edge source="Susan " target="Grim Fairy Tales " id="17" weight="4.0" />
+      <edge source="Susan " target="Time " id="18" weight="7.0" />
+      <edge source="Susan " target="Igor " id="19" weight="5.0" />
+      <edge source="Susan " target="Mrs Ogg " id="20" weight="8.0" />
+      <edge source="Susan " target="Ronnie " id="21" weight="4.0" />
+      <edge source="Susan " target="White " id="22" weight="5.0" />
+      <edge source="Susan " target="Miss Tangerine " id="23" weight="4.0" />
+      <edge source="Susan " target="Lady LeJean " id="24" weight="10.0" />
+      <edge source="Susan " target="Unity " id="25" weight="13.0" />
+      <edge source="Susan " target="Wen " id="26" weight="4.0" />
+      <edge source="Jeremy " target="Lady LeJean " id="27" weight="20.0" />
+      <edge source="Jeremy " target="Igor " id="28" weight="27.0" />
+      <edge source="Jeremy " target="Hopkins " id="29" weight="4.0" />
+      <edge source="Pestilence " target="Death " id="30" weight="6.0" />
+      <edge source="Pestilence " target="Famine " id="31" weight="4.0" />
+      <edge source="Igors " target="Igor " id="32" weight="4.0" />
+      <edge source="Rats " target="Death " id="33" weight="6.0" />
+      <edge source="Auditor " target="Lady LeJean " id="34" weight="4.0" />
+      <edge source="Tick " target="Death " id="35" weight="4.0" />
+      <edge source="Chaos " target="Death " id="36" weight="4.0" />
+      <edge source="Igor " target="Lady LeJean " id="37" weight="18.0" />
+      <edge source="Igor " target="Hopkins " id="38" weight="5.0" />
+      <edge source="Clodpool " target="Wen " id="39" weight="7.0" />
+      <edge source="Miss Susan " target="Madam Frout " id="40" weight="5.0" />
+      <edge source="Unity " target="Death " id="41" weight="5.0" />
+      <edge source="Death " target="Mrs Ogg " id="42" weight="5.0" />
+      <edge source="Death " target="Famine " id="43" weight="8.0" />
+      <edge source="Death " target="War " id="44" weight="10.0" />
+      <edge source="Death " target="Binky " id="45" weight="4.0" />
+      <edge source="Famine " target="War " id="46" weight="5.0" />
+    </edges>
+  </graph>
+</gexf>

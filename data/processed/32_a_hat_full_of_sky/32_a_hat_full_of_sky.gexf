@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Ye " label="Ye " />
+      <node id="Witches " label="Witches " />
+      <node id="Tick " label="Tick " />
+      <node id="Granny Weatherwax " label="Granny Weatherwax " />
+      <node id="Billy " label="Billy " />
+      <node id="Rob Anybody " label="Rob Anybody " />
+      <node id="Tiffany " label="Tiffany " />
+      <node id="Someone " label="Someone " />
+      <node id="Chalk " label="Chalk " />
+      <node id="Daft Wullie " label="Daft Wullie " />
+      <node id="Level " label="Level " />
+      <node id="Mistress Weatherwax " label="Mistress Weatherwax " />
+      <node id="Lucy Warbeck " label="Lucy Warbeck " />
+      <node id="Granny " label="Granny " />
+      <node id="Hamish " label="Hamish " />
+      <node id="Granny Aching " label="Granny Aching " />
+      <node id="Awf'ly Wee Billy " label="Awf'ly Wee Billy " />
+      <node id="Death " label="Death " />
+      <node id="Zakzak " label="Zakzak " />
+      <node id="Miss Level " label="Miss Level " />
+      <node id="Miss Tick " label="Miss Tick " />
+      <node id="Annagramma " label="Annagramma " />
+      <node id="Petulia " label="Petulia " />
+      <node id="Mrs Earwig " label="Mrs Earwig " />
+      <node id="Oswald " label="Oswald " />
+      <node id="Wullie " label="Wullie " />
+      <node id="Jeannie " label="Jeannie " />
+      <node id="Good " label="Good " />
+      <node id="Earwig " label="Earwig " />
+      <node id="Rob " label="Rob " />
+      <node id="Feegles " label="Feegles " />
+      <node id="Rob Anybody Feegle " label="Rob Anybody Feegle " />
+      <node id="Big Yan " label="Big Yan " />
+    </nodes>
+    <edges>
+      <edge source="Ye " target="Rob " id="0" weight="4.0" />
+      <edge source="Witches " target="Miss Tick " id="1" weight="4.0" />
+      <edge source="Witches " target="Tiffany " id="2" weight="4.0" />
+      <edge source="Tick " target="Tiffany " id="3" weight="6.0" />
+      <edge source="Tick " target="Annagramma " id="4" weight="4.0" />
+      <edge source="Granny Weatherwax " target="Tiffany " id="5" weight="5.0" />
+      <edge source="Granny Weatherwax " target="Granny " id="6" weight="5.0" />
+      <edge source="Granny Weatherwax " target="Annagramma " id="7" weight="6.0" />
+      <edge source="Granny Weatherwax " target="Petulia " id="8" weight="4.0" />
+      <edge source="Billy " target="Wullie " id="9" weight="6.0" />
+      <edge source="Billy " target="Rob " id="10" weight="12.0" />
+      <edge source="Billy " target="Feegles " id="11" weight="5.0" />
+      <edge source="Billy " target="Daft Wullie " id="12" weight="4.0" />
+      <edge source="Billy " target="Rob Anybody " id="13" weight="11.0" />
+      <edge source="Billy " target="Big Yan " id="14" weight="5.0" />
+      <edge source="Billy " target="Miss Level " id="15" weight="8.0" />
+      <edge source="Billy " target="Tiffany " id="16" weight="5.0" />
+      <edge source="Billy " target="Awf'ly Wee Billy " id="17" weight="6.0" />
+      <edge source="Rob Anybody " target="Jeannie " id="18" weight="16.0" />
+      <edge source="Rob Anybody " target="Tiffany " id="19" weight="21.0" />
+      <edge source="Rob Anybody " target="Miss Tick " id="20" weight="4.0" />
+      <edge source="Rob Anybody " target="Miss Level " id="21" weight="18.0" />
+      <edge source="Rob Anybody " target="Big Yan " id="22" weight="12.0" />
+      <edge source="Rob Anybody " target="Wullie " id="23" weight="11.0" />
+      <edge source="Rob Anybody " target="Rob " id="24" weight="34.0" />
+      <edge source="Rob Anybody " target="Daft Wullie " id="25" weight="17.0" />
+      <edge source="Rob Anybody " target="Feegles " id="26" weight="12.0" />
+      <edge source="Rob Anybody " target="Hamish " id="27" weight="4.0" />
+      <edge source="Rob Anybody " target="Rob Anybody Feegle " id="28" weight="4.0" />
+      <edge source="Rob Anybody " target="Awf'ly Wee Billy " id="29" weight="8.0" />
+      <edge source="Tiffany " target="Miss Tick " id="30" weight="24.0" />
+      <edge source="Tiffany " target="Granny " id="31" weight="6.0" />
+      <edge source="Tiffany " target="Granny Aching " id="32" weight="16.0" />
+      <edge source="Tiffany " target="Jeannie " id="33" weight="11.0" />
+      <edge source="Tiffany " target="Chalk " id="34" weight="6.0" />
+      <edge source="Tiffany " target="Miss Level " id="35" weight="12.0" />
+      <edge source="Tiffany " target="Level " id="36" weight="5.0" />
+      <edge source="Tiffany " target="Big Yan " id="37" weight="5.0" />
+      <edge source="Tiffany " target="Mistress Weatherwax " id="38" weight="19.0" />
+      <edge source="Tiffany " target="Someone " id="39" weight="4.0" />
+      <edge source="Tiffany " target="Oswald " id="40" weight="8.0" />
+      <edge source="Tiffany " target="Rob " id="41" weight="15.0" />
+      <edge source="Tiffany " target="Daft Wullie " id="42" weight="9.0" />
+      <edge source="Tiffany " target="Petulia " id="43" weight="18.0" />
+      <edge source="Tiffany " target="Wullie " id="44" weight="5.0" />
+      <edge source="Tiffany " target="Annagramma " id="45" weight="24.0" />
+      <edge source="Tiffany " target="Mrs Earwig " id="46" weight="8.0" />
+      <edge source="Tiffany " target="Lucy Warbeck " id="47" weight="4.0" />
+      <edge source="Tiffany " target="Earwig " id="48" weight="4.0" />
+      <edge source="Tiffany " target="Feegles " id="49" weight="9.0" />
+      <edge source="Tiffany " target="Zakzak " id="50" weight="9.0" />
+      <edge source="Tiffany " target="Awf'ly Wee Billy " id="51" weight="4.0" />
+      <edge source="Tiffany " target="Death " id="52" weight="4.0" />
+      <edge source="Daft Wullie " target="Wullie " id="53" weight="10.0" />
+      <edge source="Daft Wullie " target="Jeannie " id="54" weight="5.0" />
+      <edge source="Daft Wullie " target="Rob " id="55" weight="17.0" />
+      <edge source="Daft Wullie " target="Feegles " id="56" weight="7.0" />
+      <edge source="Daft Wullie " target="Big Yan " id="57" weight="5.0" />
+      <edge source="Daft Wullie " target="Miss Level " id="58" weight="13.0" />
+      <edge source="Daft Wullie " target="Awf'ly Wee Billy " id="59" weight="6.0" />
+      <edge source="Level " target="Miss Level " id="60" weight="5.0" />
+      <edge source="Mistress Weatherwax " target="Miss Level " id="61" weight="11.0" />
+      <edge source="Mistress Weatherwax " target="Miss Tick " id="62" weight="4.0" />
+      <edge source="Lucy Warbeck " target="Annagramma " id="63" weight="4.0" />
+      <edge source="Lucy Warbeck " target="Petulia " id="64" weight="4.0" />
+      <edge source="Hamish " target="Rob " id="65" weight="4.0" />
+      <edge source="Granny Aching " target="Miss Tick " id="66" weight="4.0" />
+      <edge source="Granny Aching " target="Miss Level " id="67" weight="10.0" />
+      <edge source="Awf'ly Wee Billy " target="Miss Level " id="68" weight="6.0" />
+      <edge source="Awf'ly Wee Billy " target="Wullie " id="69" weight="5.0" />
+      <edge source="Awf'ly Wee Billy " target="Rob " id="70" weight="8.0" />
+      <edge source="Awf'ly Wee Billy " target="Feegles " id="71" weight="4.0" />
+      <edge source="Zakzak " target="Annagramma " id="72" weight="6.0" />
+      <edge source="Miss Level " target="Miss Tick " id="73" weight="15.0" />
+      <edge source="Miss Level " target="Big Yan " id="74" weight="6.0" />
+      <edge source="Miss Level " target="Oswald " id="75" weight="8.0" />
+      <edge source="Miss Level " target="Rob " id="76" weight="14.0" />
+      <edge source="Miss Level " target="Good " id="77" weight="4.0" />
+      <edge source="Miss Level " target="Petulia " id="78" weight="7.0" />
+      <edge source="Miss Level " target="Wullie " id="79" weight="6.0" />
+      <edge source="Miss Level " target="Annagramma " id="80" weight="10.0" />
+      <edge source="Miss Level " target="Mrs Earwig " id="81" weight="5.0" />
+      <edge source="Miss Level " target="Feegles " id="82" weight="10.0" />
+      <edge source="Annagramma " target="Petulia " id="83" weight="13.0" />
+      <edge source="Annagramma " target="Mrs Earwig " id="84" weight="5.0" />
+      <edge source="Wullie " target="Jeannie " id="85" weight="5.0" />
+      <edge source="Wullie " target="Rob " id="86" weight="13.0" />
+      <edge source="Wullie " target="Feegles " id="87" weight="6.0" />
+      <edge source="Wullie " target="Big Yan " id="88" weight="4.0" />
+      <edge source="Jeannie " target="Big Yan " id="89" weight="5.0" />
+      <edge source="Jeannie " target="Rob " id="90" weight="13.0" />
+      <edge source="Jeannie " target="Feegles " id="91" weight="5.0" />
+      <edge source="Jeannie " target="Rob Anybody Feegle " id="92" weight="4.0" />
+      <edge source="Rob " target="Feegles " id="93" weight="12.0" />
+      <edge source="Rob " target="Big Yan " id="94" weight="11.0" />
+      <edge source="Rob " target="Rob Anybody Feegle " id="95" weight="4.0" />
+      <edge source="Feegles " target="Big Yan " id="96" weight="7.0" />
+    </edges>
+  </graph>
+</gexf>

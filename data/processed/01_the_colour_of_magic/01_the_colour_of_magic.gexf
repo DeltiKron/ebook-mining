@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Hrun " label="Hrun " />
+      <node id="Don " label="Don " />
+      <node id="Rincewind " label="Rincewind " />
+      <node id="Death " label="Death " />
+      <node id="Twoflower " label="Twoflower " />
+      <node id="Withel " label="Withel " />
+      <node id="Liessa " label="Liessa " />
+    </nodes>
+    <edges>
+      <edge source="Hrun " target="Twoflower " id="0" weight="10.0" />
+      <edge source="Hrun " target="Rincewind " id="1" weight="9.0" />
+      <edge source="Hrun " target="Liessa " id="2" weight="7.0" />
+      <edge source="Don " target="Rincewind " id="3" weight="6.0" />
+      <edge source="Rincewind " target="Twoflower " id="4" weight="51.0" />
+      <edge source="Rincewind " target="Withel " id="5" weight="7.0" />
+      <edge source="Rincewind " target="Death " id="6" weight="4.0" />
+    </edges>
+  </graph>
+</gexf>

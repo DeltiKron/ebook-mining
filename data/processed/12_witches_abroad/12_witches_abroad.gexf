@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Jason " label="Jason " />
+      <node id="Gytha " label="Gytha " />
+      <node id="Mrs Gogol " label="Mrs Gogol " />
+      <node id="Dear " label="Dear " />
+      <node id="Esme " label="Esme " />
+      <node id="Ogg " label="Ogg " />
+      <node id="Granny Weatherwax " label="Granny Weatherwax " />
+      <node id="Frank " label="Frank " />
+      <node id="Gogol " label="Gogol " />
+      <node id="Nanny Ogg " label="Nanny Ogg " />
+      <node id="Lily " label="Lily " />
+      <node id="Granny " label="Granny " />
+      <node id="Nanny " label="Nanny " />
+      <node id="Genua " label="Genua " />
+      <node id="Weatherwax " label="Weatherwax " />
+      <node id="Desiderata " label="Desiderata " />
+      <node id="Gytha Ogg " label="Gytha Ogg " />
+      <node id="Mister " label="Mister " />
+      <node id="Magrat " label="Magrat " />
+    </nodes>
+    <edges>
+      <edge source="Jason " target="Nanny Ogg " id="0" weight="4.0" />
+      <edge source="Jason " target="Dear " id="1" weight="7.0" />
+      <edge source="Gytha " target="Granny " id="2" weight="6.0" />
+      <edge source="Mrs Gogol " target="Nanny " id="3" weight="8.0" />
+      <edge source="Mrs Gogol " target="Granny " id="4" weight="9.0" />
+      <edge source="Esme " target="Granny " id="5" weight="4.0" />
+      <edge source="Esme " target="Nanny Ogg " id="6" weight="18.0" />
+      <edge source="Esme " target="Nanny " id="7" weight="25.0" />
+      <edge source="Esme " target="Magrat " id="8" weight="6.0" />
+      <edge source="Esme " target="Lily " id="9" weight="4.0" />
+      <edge source="Ogg " target="Nanny " id="10" weight="60.0" />
+      <edge source="Granny Weatherwax " target="Magrat " id="11" weight="20.0" />
+      <edge source="Granny Weatherwax " target="Granny " id="12" weight="7.0" />
+      <edge source="Granny Weatherwax " target="Nanny " id="13" weight="15.0" />
+      <edge source="Granny Weatherwax " target="Nanny Ogg " id="14" weight="11.0" />
+      <edge source="Frank " target="Mister " id="15" weight="5.0" />
+      <edge source="Gogol " target="Nanny " id="16" weight="5.0" />
+      <edge source="Nanny Ogg " target="Granny " id="17" weight="21.0" />
+      <edge source="Nanny Ogg " target="Magrat " id="18" weight="14.0" />
+      <edge source="Nanny Ogg " target="Nanny " id="19" weight="7.0" />
+      <edge source="Lily " target="Magrat " id="20" weight="4.0" />
+      <edge source="Granny " target="Desiderata " id="21" weight="5.0" />
+      <edge source="Granny " target="Nanny " id="22" weight="7.0" />
+      <edge source="Granny " target="Gytha Ogg " id="23" weight="5.0" />
+      <edge source="Granny " target="Weatherwax " id="24" weight="4.0" />
+      <edge source="Granny " target="Magrat " id="25" weight="21.0" />
+      <edge source="Nanny " target="Magrat " id="26" weight="11.0" />
+      <edge source="Nanny " target="Genua " id="27" weight="5.0" />
+    </edges>
+  </graph>
+</gexf>

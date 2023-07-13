@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Gaspode " label="Gaspode " />
+      <node id="Boffo " label="Boffo " />
+      <node id="Cruces " label="Cruces " />
+      <node id="Leonard " label="Leonard " />
+      <node id="Detritus " label="Detritus " />
+      <node id="Nobby " label="Nobby " />
+      <node id="Quirm " label="Quirm " />
+      <node id="Colon " label="Colon " />
+      <node id="Lord " label="Lord " />
+      <node id="Vimes " label="Vimes " />
+      <node id="Vetinari " label="Vetinari " />
+      <node id="Beano " label="Beano " />
+      <node id="Lady " label="Lady " />
+      <node id="Cuddy " label="Cuddy " />
+      <node id="Captain Vimes " label="Captain Vimes " />
+      <node id="Angua " label="Angua " />
+      <node id="Ramkin " label="Ramkin " />
+      <node id="Carrot " label="Carrot " />
+    </nodes>
+    <edges>
+      <edge source="Gaspode " target="Angua " id="0" weight="13.0" />
+      <edge source="Boffo " target="Carrot " id="1" weight="5.0" />
+      <edge source="Cruces " target="Vimes " id="2" weight="4.0" />
+      <edge source="Leonard " target="Quirm " id="3" weight="6.0" />
+      <edge source="Detritus " target="Carrot " id="4" weight="8.0" />
+      <edge source="Detritus " target="Cuddy " id="5" weight="16.0" />
+      <edge source="Nobby " target="Carrot " id="6" weight="9.0" />
+      <edge source="Nobby " target="Colon " id="7" weight="6.0" />
+      <edge source="Nobby " target="Cuddy " id="8" weight="5.0" />
+      <edge source="Colon " target="Carrot " id="9" weight="12.0" />
+      <edge source="Colon " target="Vimes " id="10" weight="4.0" />
+      <edge source="Lord " target="Vetinari " id="11" weight="12.0" />
+      <edge source="Vimes " target="Carrot " id="12" weight="28.0" />
+      <edge source="Beano " target="Carrot " id="13" weight="4.0" />
+      <edge source="Lady " target="Ramkin " id="14" weight="5.0" />
+      <edge source="Captain Vimes " target="Carrot " id="15" weight="4.0" />
+      <edge source="Angua " target="Carrot " id="16" weight="21.0" />
+    </edges>
+  </graph>
+</gexf>

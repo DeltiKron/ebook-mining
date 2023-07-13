@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Kelda " label="Kelda " />
+      <node id="William " label="William " />
+      <node id="Mrs Ogg " label="Mrs Ogg " />
+      <node id="Granny " label="Granny " />
+      <node id="Jolly Sailor " label="Jolly Sailor " />
+      <node id="Rob " label="Rob " />
+      <node id="Mistress Weatherwax " label="Mistress Weatherwax " />
+      <node id="Thunder " label="Thunder " />
+      <node id="Silence " label="Silence " />
+      <node id="Queen " label="Queen " />
+      <node id="Feegles " label="Feegles " />
+      <node id="Hamish " label="Hamish " />
+      <node id="Rob Anybody " label="Rob Anybody " />
+      <node id="Miss Tick " label="Miss Tick " />
+      <node id="Mrs Snapperly " label="Mrs Snapperly " />
+      <node id="Wentworth " label="Wentworth " />
+      <node id="Ratbag " label="Ratbag " />
+      <node id="Granny Aching " label="Granny Aching " />
+      <node id="Baron " label="Baron " />
+      <node id="Jenny " label="Jenny " />
+      <node id="Someone " label="Someone " />
+      <node id="Tiffany " label="Tiffany " />
+      <node id="Daft Wullie " label="Daft Wullie " />
+      <node id="Fion " label="Fion " />
+      <node id="Wullie " label="Wullie " />
+      <node id="Roland " label="Roland " />
+      <node id="Tick " label="Tick " />
+      <node id="First Sight " label="First Sight " />
+    </nodes>
+    <edges>
+      <edge source="Kelda " target="Tiffany " id="0" weight="6.0" />
+      <edge source="Kelda " target="Fion " id="1" weight="4.0" />
+      <edge source="Kelda " target="Rob Anybody " id="2" weight="4.0" />
+      <edge source="William " target="Rob Anybody " id="3" weight="19.0" />
+      <edge source="William " target="Granny Aching " id="4" weight="7.0" />
+      <edge source="William " target="Tiffany " id="5" weight="24.0" />
+      <edge source="William " target="Granny " id="6" weight="4.0" />
+      <edge source="William " target="Daft Wullie " id="7" weight="9.0" />
+      <edge source="William " target="Rob " id="8" weight="8.0" />
+      <edge source="William " target="Wentworth " id="9" weight="4.0" />
+      <edge source="Mrs Ogg " target="Mistress Weatherwax " id="10" weight="4.0" />
+      <edge source="Mrs Ogg " target="Miss Tick " id="11" weight="4.0" />
+      <edge source="Mrs Ogg " target="Tiffany " id="12" weight="4.0" />
+      <edge source="Granny " target="Granny Aching " id="13" weight="17.0" />
+      <edge source="Granny " target="Tiffany " id="14" weight="22.0" />
+      <edge source="Granny " target="Someone " id="15" weight="4.0" />
+      <edge source="Granny " target="Wentworth " id="16" weight="5.0" />
+      <edge source="Granny " target="Baron " id="17" weight="4.0" />
+      <edge source="Granny " target="Rob Anybody " id="18" weight="8.0" />
+      <edge source="Granny " target="Jolly Sailor " id="19" weight="4.0" />
+      <edge source="Jolly Sailor " target="Rob Anybody " id="20" weight="7.0" />
+      <edge source="Jolly Sailor " target="Granny Aching " id="21" weight="8.0" />
+      <edge source="Jolly Sailor " target="Tiffany " id="22" weight="10.0" />
+      <edge source="Rob " target="Rob Anybody " id="23" weight="16.0" />
+      <edge source="Rob " target="Granny Aching " id="24" weight="5.0" />
+      <edge source="Rob " target="Tiffany " id="25" weight="16.0" />
+      <edge source="Rob " target="Daft Wullie " id="26" weight="10.0" />
+      <edge source="Rob " target="Wentworth " id="27" weight="7.0" />
+      <edge source="Mistress Weatherwax " target="Miss Tick " id="28" weight="4.0" />
+      <edge source="Mistress Weatherwax " target="Tiffany " id="29" weight="4.0" />
+      <edge source="Thunder " target="Granny Aching " id="30" weight="4.0" />
+      <edge source="Thunder " target="Tiffany " id="31" weight="4.0" />
+      <edge source="Silence " target="Tiffany " id="32" weight="4.0" />
+      <edge source="Queen " target="Tiffany " id="33" weight="5.0" />
+      <edge source="Feegles " target="Tiffany " id="34" weight="11.0" />
+      <edge source="Feegles " target="Rob Anybody " id="35" weight="7.0" />
+      <edge source="Feegles " target="Granny Aching " id="36" weight="4.0" />
+      <edge source="Feegles " target="Daft Wullie " id="37" weight="5.0" />
+      <edge source="Hamish " target="Tiffany " id="38" weight="6.0" />
+      <edge source="Rob Anybody " target="Wentworth " id="39" weight="15.0" />
+      <edge source="Rob Anybody " target="Granny Aching " id="40" weight="12.0" />
+      <edge source="Rob Anybody " target="Tiffany " id="41" weight="7.0" />
+      <edge source="Rob Anybody " target="Baron " id="42" weight="5.0" />
+      <edge source="Rob Anybody " target="Daft Wullie " id="43" weight="25.0" />
+      <edge source="Rob Anybody " target="Fion " id="44" weight="6.0" />
+      <edge source="Rob Anybody " target="Wullie " id="45" weight="5.0" />
+      <edge source="Miss Tick " target="Wentworth " id="46" weight="6.0" />
+      <edge source="Miss Tick " target="Granny Aching " id="47" weight="4.0" />
+      <edge source="Miss Tick " target="Tiffany " id="48" weight="21.0" />
+      <edge source="Miss Tick " target="Baron " id="49" weight="7.0" />
+      <edge source="Miss Tick " target="Jenny " id="50" weight="4.0" />
+      <edge source="Mrs Snapperly " target="Tiffany " id="51" weight="4.0" />
+      <edge source="Wentworth " target="Tiffany " id="52" weight="5.0" />
+      <edge source="Wentworth " target="Granny Aching " id="53" weight="6.0" />
+      <edge source="Wentworth " target="Daft Wullie " id="54" weight="9.0" />
+      <edge source="Wentworth " target="Roland " id="55" weight="4.0" />
+      <edge source="Ratbag " target="Tiffany " id="56" weight="8.0" />
+      <edge source="Granny Aching " target="Tiffany " id="57" weight="34.0" />
+      <edge source="Granny Aching " target="Baron " id="58" weight="5.0" />
+      <edge source="Granny Aching " target="Daft Wullie " id="59" weight="4.0" />
+      <edge source="Baron " target="Tiffany " id="60" weight="14.0" />
+      <edge source="Jenny " target="Tiffany " id="61" weight="7.0" />
+      <edge source="Someone " target="Tiffany " id="62" weight="8.0" />
+      <edge source="Tiffany " target="Tick " id="63" weight="4.0" />
+      <edge source="Tiffany " target="First Sight " id="64" weight="5.0" />
+      <edge source="Tiffany " target="Daft Wullie " id="65" weight="25.0" />
+      <edge source="Tiffany " target="Fion " id="66" weight="7.0" />
+      <edge source="Tiffany " target="Wullie " id="67" weight="5.0" />
+      <edge source="Tiffany " target="Roland " id="68" weight="7.0" />
+      <edge source="Daft Wullie " target="Wullie " id="69" weight="4.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Father Jupe " label="Father Jupe " />
+      <node id="Anyway " label="Anyway " />
+      <node id="Lieutenant Blouse " label="Lieutenant Blouse " />
+      <node id="Polly " label="Polly " />
+      <node id="Scallot " label="Scallot " />
+      <node id="Prince Heinrich " label="Prince Heinrich " />
+      <node id="Shufti " label="Shufti " />
+      <node id="See " label="See " />
+      <node id="Wazzer " label="Wazzer " />
+      <node id="Wouldn " label="Wouldn " />
+      <node id="Paul " label="Paul " />
+      <node id="Buggy " label="Buggy " />
+      <node id="Vimes " label="Vimes " />
+      <node id="Clogston " label="Clogston " />
+      <node id="Maladicta " label="Maladicta " />
+      <node id="Right " label="Right " />
+      <node id="Blouse " label="Blouse " />
+      <node id="Ozzer " label="Ozzer " />
+      <node id="Perks " label="Perks " />
+      <node id="Don " label="Don " />
+      <node id="Okay " label="Okay " />
+      <node id="Someone " label="Someone " />
+      <node id="Otto " label="Otto " />
+      <node id="How " label="How " />
+      <node id="Got " label="Got " />
+      <node id="Aren " label="Aren " />
+      <node id="Froc " label="Froc " />
+      <node id="Captain Horentz " label="Captain Horentz " />
+      <node id="Maladict " label="Maladict " />
+      <node id="Let " label="Let " />
+      <node id="Milit " label="Milit " />
+      <node id="Jackrum " label="Jackrum " />
+      <node id="Lord Rust " label="Lord Rust " />
+      <node id="Carry " label="Carry " />
+      <node id="Mister Vimes " label="Mister Vimes " />
+      <node id="Nuggan " label="Nuggan " />
+      <node id="Kneck Keep " label="Kneck Keep " />
+      <node id="Sorry " label="Sorry " />
+      <node id="Angua " label="Angua " />
+      <node id="De Worde " label="De Worde " />
+      <node id="Good " label="Good " />
+      <node id="Sarge " label="Sarge " />
+      <node id="Tonker " label="Tonker " />
+      <node id="Carborundum " label="Carborundum " />
+      <node id="Daphne " label="Daphne " />
+      <node id="Major Clogston " label="Major Clogston " />
+      <node id="Sir " label="Sir " />
+      <node id="Oliver " label="Oliver " />
+      <node id="Well " label="Well " />
+      <node id="Lofty " label="Lofty " />
+      <node id="Jade " label="Jade " />
+      <node id="Igorina " label="Igorina " />
+      <node id="Wazz " label="Wazz " />
+      <node id="Worde " label="Worde " />
+      <node id="Which " label="Which " />
+      <node id="Heinrich " label="Heinrich " />
+      <node id="Anyone " label="Anyone " />
+      <node id="Sergeant Jackrum " label="Sergeant Jackrum " />
+      <node id="Yessir " label="Yessir " />
+      <node id="Hah " label="Hah " />
+      <node id="Ozz " label="Ozz " />
+      <node id="Strappi " label="Strappi " />
+      <node id="Igor " label="Igor " />
+    </nodes>
+    <edges>
+      <edge source="Father Jupe " target="Polly " id="0" weight="4.0" />
+      <edge source="Anyway " target="Polly " id="1" weight="8.0" />
+      <edge source="Anyway " target="Shufti " id="2" weight="5.0" />
+      <edge source="Anyway " target="Maladict " id="3" weight="4.0" />
+      <edge source="Anyway " target="Tonker " id="4" weight="5.0" />
+      <edge source="Anyway " target="Blouse " id="5" weight="5.0" />
+      <edge source="Anyway " target="Igorina " id="6" weight="4.0" />
+      <edge source="Lieutenant Blouse " target="Blouse " id="7" weight="4.0" />
+      <edge source="Lieutenant Blouse " target="Polly " id="8" weight="7.0" />
+      <edge source="Polly " target="Oliver " id="9" weight="5.0" />
+      <edge source="Polly " target="Paul " id="10" weight="16.0" />
+      <edge source="Polly " target="Right " id="11" weight="14.0" />
+      <edge source="Polly " target="Yessir " id="12" weight="9.0" />
+      <edge source="Polly " target="Perks " id="13" weight="67.0" />
+      <edge source="Polly " target="Don " id="14" weight="41.0" />
+      <edge source="Polly " target="Igor " id="15" weight="33.0" />
+      <edge source="Polly " target="Jackrum " id="16" weight="95.0" />
+      <edge source="Polly " target="Strappi " id="17" weight="28.0" />
+      <edge source="Polly " target="Which " id="18" weight="4.0" />
+      <edge source="Polly " target="Maladict " id="19" weight="68.0" />
+      <edge source="Polly " target="Sergeant Jackrum " id="20" weight="19.0" />
+      <edge source="Polly " target="Carborundum " id="21" weight="17.0" />
+      <edge source="Polly " target="Shufti " id="22" weight="67.0" />
+      <edge source="Polly " target="Wazzer " id="23" weight="55.0" />
+      <edge source="Polly " target="Nuggan " id="24" weight="13.0" />
+      <edge source="Polly " target="Someone " id="25" weight="9.0" />
+      <edge source="Polly " target="Sir " id="26" weight="17.0" />
+      <edge source="Polly " target="Tonker " id="27" weight="66.0" />
+      <edge source="Polly " target="Anyone " id="28" weight="7.0" />
+      <edge source="Polly " target="Well " id="29" weight="4.0" />
+      <edge source="Polly " target="Sorry " id="30" weight="27.0" />
+      <edge source="Polly " target="Carry " id="31" weight="6.0" />
+      <edge source="Polly " target="Prince Heinrich " id="32" weight="4.0" />
+      <edge source="Polly " target="Heinrich " id="33" weight="8.0" />
+      <edge source="Polly " target="Okay " id="34" weight="9.0" />
+      <edge source="Polly " target="Let " id="35" weight="6.0" />
+      <edge source="Polly " target="Wouldn " id="36" weight="4.0" />
+      <edge source="Polly " target="Lofty " id="37" weight="29.0" />
+      <edge source="Polly " target="How " id="38" weight="5.0" />
+      <edge source="Polly " target="Wazz " id="39" weight="6.0" />
+      <edge source="Polly " target="Blouse " id="40" weight="91.0" />
+      <edge source="Polly " target="Scallot " id="41" weight="10.0" />
+      <edge source="Polly " target="Milit " id="42" weight="6.0" />
+      <edge source="Polly " target="Ozzer " id="43" weight="5.0" />
+      <edge source="Polly " target="Ozz " id="44" weight="7.0" />
+      <edge source="Polly " target="Sarge " id="45" weight="12.0" />
+      <edge source="Polly " target="Captain Horentz " id="46" weight="5.0" />
+      <edge source="Polly " target="See " id="47" weight="4.0" />
+      <edge source="Polly " target="Otto " id="48" weight="7.0" />
+      <edge source="Polly " target="Worde " id="49" weight="14.0" />
+      <edge source="Polly " target="Good " id="50" weight="11.0" />
+      <edge source="Polly " target="Jade " id="51" weight="27.0" />
+      <edge source="Polly " target="Igorina " id="52" weight="40.0" />
+      <edge source="Polly " target="Got " id="53" weight="4.0" />
+      <edge source="Polly " target="Hah " id="54" weight="4.0" />
+      <edge source="Polly " target="De Worde " id="55" weight="9.0" />
+      <edge source="Polly " target="Aren " id="56" weight="4.0" />
+      <edge source="Polly " target="Daphne " id="57" weight="8.0" />
+      <edge source="Polly " target="Lord Rust " id="58" weight="5.0" />
+      <edge source="Polly " target="Clogston " id="59" weight="10.0" />
+      <edge source="Polly " target="Froc " id="60" weight="8.0" />
+      <edge source="Polly " target="Vimes " id="61" weight="6.0" />
+      <edge source="Polly " target="Maladicta " id="62" weight="8.0" />
+      <edge source="Scallot " target="Maladict " id="63" weight="5.0" />
+      <edge source="Scallot " target="Jackrum " id="64" weight="7.0" />
+      <edge source="Scallot " target="Shufti " id="65" weight="4.0" />
+      <edge source="Shufti " target="Right " id="66" weight="6.0" />
+      <edge source="Shufti " target="Maladict " id="67" weight="20.0" />
+      <edge source="Shufti " target="Wazzer " id="68" weight="18.0" />
+      <edge source="Shufti " target="Carborundum " id="69" weight="5.0" />
+      <edge source="Shufti " target="Igor " id="70" weight="9.0" />
+      <edge source="Shufti " target="Sorry " id="71" weight="11.0" />
+      <edge source="Shufti " target="Jackrum " id="72" weight="34.0" />
+      <edge source="Shufti " target="Strappi " id="73" weight="7.0" />
+      <edge source="Shufti " target="Okay " id="74" weight="5.0" />
+      <edge source="Shufti " target="Tonker " id="75" weight="33.0" />
+      <edge source="Shufti " target="Let " id="76" weight="4.0" />
+      <edge source="Shufti " target="Paul " id="77" weight="7.0" />
+      <edge source="Shufti " target="Perks " id="78" weight="20.0" />
+      <edge source="Shufti " target="Don " id="79" weight="14.0" />
+      <edge source="Shufti " target="Lofty " id="80" weight="16.0" />
+      <edge source="Shufti " target="Blouse " id="81" weight="30.0" />
+      <edge source="Shufti " target="Ozzer " id="82" weight="4.0" />
+      <edge source="Shufti " target="Anyone " id="83" weight="4.0" />
+      <edge source="Shufti " target="Jade " id="84" weight="10.0" />
+      <edge source="Shufti " target="Sarge " id="85" weight="4.0" />
+      <edge source="Shufti " target="Igorina " id="86" weight="20.0" />
+      <edge source="Shufti " target="Sir " id="87" weight="4.0" />
+      <edge source="Shufti " target="Nuggan " id="88" weight="4.0" />
+      <edge source="Shufti " target="Someone " id="89" weight="4.0" />
+      <edge source="Shufti " target="Lord Rust " id="90" weight="4.0" />
+      <edge source="Shufti " target="Clogston " id="91" weight="5.0" />
+      <edge source="Wazzer " target="Right " id="92" weight="5.0" />
+      <edge source="Wazzer " target="Maladict " id="93" weight="22.0" />
+      <edge source="Wazzer " target="Carborundum " id="94" weight="6.0" />
+      <edge source="Wazzer " target="Igor " id="95" weight="8.0" />
+      <edge source="Wazzer " target="Perks " id="96" weight="18.0" />
+      <edge source="Wazzer " target="Sorry " id="97" weight="12.0" />
+      <edge source="Wazzer " target="Jackrum " id="98" weight="32.0" />
+      <edge source="Wazzer " target="Strappi " id="99" weight="8.0" />
+      <edge source="Wazzer " target="Okay " id="100" weight="6.0" />
+      <edge source="Wazzer " target="Tonker " id="101" weight="25.0" />
+      <edge source="Wazzer " target="Lofty " id="102" weight="11.0" />
+      <edge source="Wazzer " target="Nuggan " id="103" weight="7.0" />
+      <edge source="Wazzer " target="Someone " id="104" weight="4.0" />
+      <edge source="Wazzer " target="Don " id="105" weight="10.0" />
+      <edge source="Wazzer " target="Wazz " id="106" weight="6.0" />
+      <edge source="Wazzer " target="Jade " id="107" weight="12.0" />
+      <edge source="Wazzer " target="Blouse " id="108" weight="27.0" />
+      <edge source="Wazzer " target="Igorina " id="109" weight="17.0" />
+      <edge source="Wazzer " target="Yessir " id="110" weight="4.0" />
+      <edge source="Wazzer " target="Sir " id="111" weight="5.0" />
+      <edge source="Wazzer " target="Ozz " id="112" weight="4.0" />
+      <edge source="Wazzer " target="Sarge " id="113" weight="4.0" />
+      <edge source="Wazzer " target="Good " id="114" weight="4.0" />
+      <edge source="Paul " target="Sir " id="115" weight="4.0" />
+      <edge source="Paul " target="Blouse " id="116" weight="9.0" />
+      <edge source="Paul " target="Perks " id="117" weight="4.0" />
+      <edge source="Buggy " target="Vimes " id="118" weight="4.0" />
+      <edge source="Vimes " target="Mister Vimes " id="119" weight="5.0" />
+      <edge source="Vimes " target="Don " id="120" weight="4.0" />
+      <edge source="Vimes " target="Heinrich " id="121" weight="4.0" />
+      <edge source="Vimes " target="Angua " id="122" weight="5.0" />
+      <edge source="Vimes " target="Worde " id="123" weight="5.0" />
+      <edge source="Vimes " target="Maladicta " id="124" weight="4.0" />
+      <edge source="Clogston " target="Don " id="125" weight="4.0" />
+      <edge source="Clogston " target="Tonker " id="126" weight="8.0" />
+      <edge source="Clogston " target="Major Clogston " id="127" weight="4.0" />
+      <edge source="Clogston " target="Blouse " id="128" weight="4.0" />
+      <edge source="Clogston " target="Froc " id="129" weight="5.0" />
+      <edge source="Maladicta " target="Jade " id="130" weight="4.0" />
+      <edge source="Right " target="Don " id="131" weight="4.0" />
+      <edge source="Right " target="Maladict " id="132" weight="6.0" />
+      <edge source="Right " target="Carborundum " id="133" weight="4.0" />
+      <edge source="Right " target="Strappi " id="134" weight="5.0" />
+      <edge source="Right " target="Igor " id="135" weight="7.0" />
+      <edge source="Right " target="Jackrum " id="136" weight="8.0" />
+      <edge source="Right " target="Perks " id="137" weight="5.0" />
+      <edge source="Right " target="Tonker " id="138" weight="5.0" />
+      <edge source="Right " target="Blouse " id="139" weight="7.0" />
+      <edge source="Blouse " target="Sorry " id="140" weight="16.0" />
+      <edge source="Blouse " target="Good " id="141" weight="4.0" />
+      <edge source="Blouse " target="Jackrum " id="142" weight="53.0" />
+      <edge source="Blouse " target="Strappi " id="143" weight="7.0" />
+      <edge source="Blouse " target="Igor " id="144" weight="15.0" />
+      <edge source="Blouse " target="Don " id="145" weight="18.0" />
+      <edge source="Blouse " target="Maladict " id="146" weight="29.0" />
+      <edge source="Blouse " target="Carry " id="147" weight="5.0" />
+      <edge source="Blouse " target="Perks " id="148" weight="50.0" />
+      <edge source="Blouse " target="Sir " id="149" weight="16.0" />
+      <edge source="Blouse " target="Lofty " id="150" weight="16.0" />
+      <edge source="Blouse " target="Captain Horentz " id="151" weight="4.0" />
+      <edge source="Blouse " target="Carborundum " id="152" weight="4.0" />
+      <edge source="Blouse " target="Tonker " id="153" weight="30.0" />
+      <edge source="Blouse " target="Jade " id="154" weight="17.0" />
+      <edge source="Blouse " target="Milit " id="155" weight="4.0" />
+      <edge source="Blouse " target="Yessir " id="156" weight="7.0" />
+      <edge source="Blouse " target="Nuggan " id="157" weight="6.0" />
+      <edge source="Blouse " target="Sergeant Jackrum " id="158" weight="8.0" />
+      <edge source="Blouse " target="Igorina " id="159" weight="27.0" />
+      <edge source="Blouse " target="Sarge " id="160" weight="5.0" />
+      <edge source="Blouse " target="Hah " id="161" weight="5.0" />
+      <edge source="Blouse " target="De Worde " id="162" weight="6.0" />
+      <edge source="Blouse " target="Worde " id="163" weight="6.0" />
+      <edge source="Blouse " target="Daphne " id="164" weight="7.0" />
+      <edge source="Blouse " target="Froc " id="165" weight="4.0" />
+      <edge source="Perks " target="Don " id="166" weight="14.0" />
+      <edge source="Perks " target="Igor " id="167" weight="10.0" />
+      <edge source="Perks " target="Jackrum " id="168" weight="53.0" />
+      <edge source="Perks " target="Strappi " id="169" weight="10.0" />
+      <edge source="Perks " target="Maladict " id="170" weight="16.0" />
+      <edge source="Perks " target="Sergeant Jackrum " id="171" weight="6.0" />
+      <edge source="Perks " target="Well " id="172" weight="4.0" />
+      <edge source="Perks " target="Tonker " id="173" weight="14.0" />
+      <edge source="Perks " target="Yessir " id="174" weight="5.0" />
+      <edge source="Perks " target="Sir " id="175" weight="14.0" />
+      <edge source="Perks " target="Sarge " id="176" weight="5.0" />
+      <edge source="Perks " target="Jade " id="177" weight="12.0" />
+      <edge source="Perks " target="Lofty " id="178" weight="9.0" />
+      <edge source="Perks " target="Sorry " id="179" weight="9.0" />
+      <edge source="Perks " target="Igorina " id="180" weight="9.0" />
+      <edge source="Perks " target="De Worde " id="181" weight="5.0" />
+      <edge source="Perks " target="Worde " id="182" weight="5.0" />
+      <edge source="Don " target="Igor " id="183" weight="12.0" />
+      <edge source="Don " target="Jackrum " id="184" weight="25.0" />
+      <edge source="Don " target="Strappi " id="185" weight="7.0" />
+      <edge source="Don " target="Maladict " id="186" weight="17.0" />
+      <edge source="Don " target="Sergeant Jackrum " id="187" weight="5.0" />
+      <edge source="Don " target="Tonker " id="188" weight="13.0" />
+      <edge source="Don " target="Sorry " id="189" weight="7.0" />
+      <edge source="Don " target="Lofty " id="190" weight="5.0" />
+      <edge source="Don " target="Jade " id="191" weight="7.0" />
+      <edge source="Don " target="Sir " id="192" weight="5.0" />
+      <edge source="Don " target="Worde " id="193" weight="4.0" />
+      <edge source="Okay " target="Jackrum " id="194" weight="7.0" />
+      <edge source="Okay " target="Maladict " id="195" weight="6.0" />
+      <edge source="Okay " target="Tonker " id="196" weight="4.0" />
+      <edge source="Okay " target="Jade " id="197" weight="4.0" />
+      <edge source="Someone " target="Tonker " id="198" weight="6.0" />
+      <edge source="Otto " target="Worde " id="199" weight="5.0" />
+      <edge source="Otto " target="De Worde " id="200" weight="4.0" />
+      <edge source="Froc " target="Jackrum " id="201" weight="7.0" />
+      <edge source="Maladict " target="Which " id="202" weight="4.0" />
+      <edge source="Maladict " target="Strappi " id="203" weight="15.0" />
+      <edge source="Maladict " target="Igor " id="204" weight="20.0" />
+      <edge source="Maladict " target="Sergeant Jackrum " id="205" weight="12.0" />
+      <edge source="Maladict " target="Carborundum " id="206" weight="13.0" />
+      <edge source="Maladict " target="Tonker " id="207" weight="22.0" />
+      <edge source="Maladict " target="Jackrum " id="208" weight="36.0" />
+      <edge source="Maladict " target="Sorry " id="209" weight="10.0" />
+      <edge source="Maladict " target="Nuggan " id="210" weight="4.0" />
+      <edge source="Maladict " target="Let " id="211" weight="4.0" />
+      <edge source="Maladict " target="Lofty " id="212" weight="8.0" />
+      <edge source="Maladict " target="Wazz " id="213" weight="4.0" />
+      <edge source="Maladict " target="Good " id="214" weight="4.0" />
+      <edge source="Maladict " target="Jade " id="215" weight="14.0" />
+      <edge source="Maladict " target="Yessir " id="216" weight="4.0" />
+      <edge source="Maladict " target="Igorina " id="217" weight="15.0" />
+      <edge source="Jackrum " target="Strappi " id="218" weight="19.0" />
+      <edge source="Jackrum " target="Heinrich " id="219" weight="4.0" />
+      <edge source="Jackrum " target="Igor " id="220" weight="18.0" />
+      <edge source="Jackrum " target="Sergeant Jackrum " id="221" weight="4.0" />
+      <edge source="Jackrum " target="Nuggan " id="222" weight="5.0" />
+      <edge source="Jackrum " target="Well " id="223" weight="4.0" />
+      <edge source="Jackrum " target="Sorry " id="224" weight="13.0" />
+      <edge source="Jackrum " target="Tonker " id="225" weight="22.0" />
+      <edge source="Jackrum " target="Carborundum " id="226" weight="6.0" />
+      <edge source="Jackrum " target="Lofty " id="227" weight="10.0" />
+      <edge source="Jackrum " target="Kneck Keep " id="228" weight="4.0" />
+      <edge source="Jackrum " target="Yessir " id="229" weight="6.0" />
+      <edge source="Jackrum " target="Good " id="230" weight="6.0" />
+      <edge source="Jackrum " target="Carry " id="231" weight="4.0" />
+      <edge source="Jackrum " target="Sarge " id="232" weight="11.0" />
+      <edge source="Jackrum " target="Sir " id="233" weight="9.0" />
+      <edge source="Jackrum " target="Jade " id="234" weight="14.0" />
+      <edge source="Jackrum " target="Igorina " id="235" weight="18.0" />
+      <edge source="Jackrum " target="De Worde " id="236" weight="4.0" />
+      <edge source="Jackrum " target="Worde " id="237" weight="4.0" />
+      <edge source="Nuggan " target="Tonker " id="238" weight="6.0" />
+      <edge source="Nuggan " target="Igorina " id="239" weight="4.0" />
+      <edge source="Nuggan " target="Sorry " id="240" weight="4.0" />
+      <edge source="Sorry " target="Sergeant Jackrum " id="241" weight="4.0" />
+      <edge source="Sorry " target="Strappi " id="242" weight="5.0" />
+      <edge source="Sorry " target="Igor " id="243" weight="4.0" />
+      <edge source="Sorry " target="Worde " id="244" weight="6.0" />
+      <edge source="Sorry " target="Tonker " id="245" weight="12.0" />
+      <edge source="Sorry " target="Igorina " id="246" weight="8.0" />
+      <edge source="Sorry " target="Daphne " id="247" weight="4.0" />
+      <edge source="De Worde " target="Worde " id="248" weight="10.0" />
+      <edge source="Good " target="Tonker " id="249" weight="5.0" />
+      <edge source="Sarge " target="Tonker " id="250" weight="5.0" />
+      <edge source="Tonker " target="Strappi " id="251" weight="13.0" />
+      <edge source="Tonker " target="Carborundum " id="252" weight="9.0" />
+      <edge source="Tonker " target="Igor " id="253" weight="10.0" />
+      <edge source="Tonker " target="Lofty " id="254" weight="24.0" />
+      <edge source="Tonker " target="Sergeant Jackrum " id="255" weight="6.0" />
+      <edge source="Tonker " target="Wazz " id="256" weight="5.0" />
+      <edge source="Tonker " target="Anyone " id="257" weight="4.0" />
+      <edge source="Tonker " target="Jade " id="258" weight="9.0" />
+      <edge source="Tonker " target="Igorina " id="259" weight="23.0" />
+      <edge source="Tonker " target="Ozz " id="260" weight="4.0" />
+      <edge source="Tonker " target="Daphne " id="261" weight="5.0" />
+      <edge source="Carborundum " target="Strappi " id="262" weight="7.0" />
+      <edge source="Carborundum " target="Igor " id="263" weight="9.0" />
+      <edge source="Carborundum " target="Lofty " id="264" weight="5.0" />
+      <edge source="Daphne " target="Igorina " id="265" weight="5.0" />
+      <edge source="Sir " target="Igor " id="266" weight="4.0" />
+      <edge source="Lofty " target="Sergeant Jackrum " id="267" weight="4.0" />
+      <edge source="Lofty " target="Strappi " id="268" weight="5.0" />
+      <edge source="Lofty " target="Igor " id="269" weight="8.0" />
+      <edge source="Lofty " target="Igorina " id="270" weight="9.0" />
+      <edge source="Lofty " target="Jade " id="271" weight="4.0" />
+      <edge source="Jade " target="Igor " id="272" weight="4.0" />
+      <edge source="Jade " target="Igorina " id="273" weight="9.0" />
+      <edge source="Igorina " target="Strappi " id="274" weight="4.0" />
+      <edge source="Igorina " target="Igor " id="275" weight="5.0" />
+      <edge source="Which " target="Strappi " id="276" weight="5.0" />
+      <edge source="Sergeant Jackrum " target="Igor " id="277" weight="8.0" />
+      <edge source="Sergeant Jackrum " target="Strappi " id="278" weight="8.0" />
+      <edge source="Strappi " target="Igor " id="279" weight="10.0" />
+    </edges>
+  </graph>
+</gexf>

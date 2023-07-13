@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Wonse " label="Wonse " />
+      <node id="Carrot " label="Carrot " />
+      <node id="Errol " label="Errol " />
+      <node id="Plasterer " label="Plasterer " />
+      <node id="Sergeant Colon " label="Sergeant Colon " />
+      <node id="Nobby " label="Nobby " />
+      <node id="Vimes " label="Vimes " />
+      <node id="Lady " label="Lady " />
+      <node id="Brother Plasterer " label="Brother Plasterer " />
+      <node id="Sgt Colon " label="Sgt Colon " />
+      <node id="Brother Watchtower " label="Brother Watchtower " />
+      <node id="Vetinari " label="Vetinari " />
+      <node id="Captain Vimes " label="Captain Vimes " />
+      <node id="Lupine " label="Lupine " />
+      <node id="Sarge " label="Sarge " />
+      <node id="Lord " label="Lord " />
+      <node id="Ramkin " label="Ramkin " />
+      <node id="Colon " label="Colon " />
+      <node id="Brother " label="Brother " />
+      <node id="Lady Ramkin " label="Lady Ramkin " />
+    </nodes>
+    <edges>
+      <edge source="Wonse " target="Lupine " id="0" weight="4.0" />
+      <edge source="Wonse " target="Vimes " id="1" weight="9.0" />
+      <edge source="Carrot " target="Nobby " id="2" weight="27.0" />
+      <edge source="Carrot " target="Colon " id="3" weight="9.0" />
+      <edge source="Carrot " target="Vimes " id="4" weight="9.0" />
+      <edge source="Carrot " target="Captain Vimes " id="5" weight="5.0" />
+      <edge source="Carrot " target="Sergeant Colon " id="6" weight="4.0" />
+      <edge source="Errol " target="Vimes " id="7" weight="11.0" />
+      <edge source="Plasterer " target="Brother " id="8" weight="4.0" />
+      <edge source="Nobby " target="Colon " id="9" weight="11.0" />
+      <edge source="Nobby " target="Vimes " id="10" weight="9.0" />
+      <edge source="Nobby " target="Sarge " id="11" weight="5.0" />
+      <edge source="Nobby " target="Sgt Colon " id="12" weight="4.0" />
+      <edge source="Vimes " target="Lady " id="13" weight="4.0" />
+      <edge source="Vimes " target="Colon " id="14" weight="7.0" />
+      <edge source="Vimes " target="Lady Ramkin " id="15" weight="10.0" />
+      <edge source="Vimes " target="Captain Vimes " id="16" weight="4.0" />
+      <edge source="Lady " target="Ramkin " id="17" weight="21.0" />
+      <edge source="Brother Plasterer " target="Brother Watchtower " id="18" weight="5.0" />
+      <edge source="Vetinari " target="Lord " id="19" weight="7.0" />
+      <edge source="Captain Vimes " target="Colon " id="20" weight="7.0" />
+    </edges>
+  </graph>
+</gexf>

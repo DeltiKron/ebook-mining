@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Malicia " label="Malicia " />
+      <node id="Donut Enter " label="Donut Enter " />
+      <node id="Inbrine " label="Inbrine " />
+      <node id="Sardines " label="Sardines " />
+      <node id="Dangerous " label="Dangerous " />
+      <node id="Ratty Rupert " label="Ratty Rupert " />
+      <node id="Keith " label="Keith " />
+      <node id="Spider " label="Spider " />
+      <node id="Darktan " label="Darktan " />
+      <node id="Hamnpork " label="Hamnpork " />
+      <node id="Dangerous Beans " label="Dangerous Beans " />
+      <node id="Bunnsy Has An Adventure " label="Bunnsy Has An Adventure " />
+      <node id="Look " label="Look " />
+      <node id="Bill " label="Bill " />
+      <node id="Peaches " label="Peaches " />
+      <node id="Bunnsy " label="Bunnsy " />
+      <node id="Maurice " label="Maurice " />
+    </nodes>
+    <edges>
+      <edge source="Malicia " target="Keith " id="0" weight="34.0" />
+      <edge source="Malicia " target="Maurice " id="1" weight="23.0" />
+      <edge source="Malicia " target="Sardines " id="2" weight="10.0" />
+      <edge source="Malicia " target="Bunnsy Has An Adventure " id="3" weight="4.0" />
+      <edge source="Malicia " target="Dangerous " id="4" weight="6.0" />
+      <edge source="Malicia " target="Darktan " id="5" weight="15.0" />
+      <edge source="Malicia " target="Hamnpork " id="6" weight="6.0" />
+      <edge source="Malicia " target="Peaches " id="7" weight="9.0" />
+      <edge source="Malicia " target="Dangerous Beans " id="8" weight="4.0" />
+      <edge source="Malicia " target="Bill " id="9" weight="4.0" />
+      <edge source="Donut Enter " target="Peaches " id="10" weight="4.0" />
+      <edge source="Inbrine " target="Darktan " id="11" weight="5.0" />
+      <edge source="Inbrine " target="Sardines " id="12" weight="4.0" />
+      <edge source="Inbrine " target="Maurice " id="13" weight="4.0" />
+      <edge source="Sardines " target="Dangerous Beans " id="14" weight="5.0" />
+      <edge source="Sardines " target="Maurice " id="15" weight="17.0" />
+      <edge source="Sardines " target="Darktan " id="16" weight="17.0" />
+      <edge source="Sardines " target="Keith " id="17" weight="10.0" />
+      <edge source="Sardines " target="Dangerous " id="18" weight="5.0" />
+      <edge source="Sardines " target="Hamnpork " id="19" weight="9.0" />
+      <edge source="Sardines " target="Bunnsy Has An Adventure " id="20" weight="7.0" />
+      <edge source="Sardines " target="Peaches " id="21" weight="8.0" />
+      <edge source="Dangerous " target="Hamnpork " id="22" weight="11.0" />
+      <edge source="Dangerous " target="Peaches " id="23" weight="18.0" />
+      <edge source="Dangerous " target="Maurice " id="24" weight="13.0" />
+      <edge source="Dangerous " target="Dangerous Beans " id="25" weight="9.0" />
+      <edge source="Dangerous " target="Darktan " id="26" weight="10.0" />
+      <edge source="Dangerous " target="Bunnsy Has An Adventure " id="27" weight="5.0" />
+      <edge source="Dangerous " target="Keith " id="28" weight="4.0" />
+      <edge source="Dangerous " target="Spider " id="29" weight="4.0" />
+      <edge source="Ratty Rupert " target="Maurice " id="30" weight="6.0" />
+      <edge source="Ratty Rupert " target="Bunnsy Has An Adventure " id="31" weight="5.0" />
+      <edge source="Keith " target="Maurice " id="32" weight="27.0" />
+      <edge source="Keith " target="Darktan " id="33" weight="17.0" />
+      <edge source="Keith " target="Dangerous Beans " id="34" weight="4.0" />
+      <edge source="Keith " target="Hamnpork " id="35" weight="7.0" />
+      <edge source="Keith " target="Peaches " id="36" weight="8.0" />
+      <edge source="Darktan " target="Hamnpork " id="37" weight="17.0" />
+      <edge source="Darktan " target="Bunnsy Has An Adventure " id="38" weight="8.0" />
+      <edge source="Darktan " target="Peaches " id="39" weight="14.0" />
+      <edge source="Darktan " target="Dangerous Beans " id="40" weight="7.0" />
+      <edge source="Darktan " target="Maurice " id="41" weight="19.0" />
+      <edge source="Hamnpork " target="Peaches " id="42" weight="15.0" />
+      <edge source="Hamnpork " target="Maurice " id="43" weight="14.0" />
+      <edge source="Hamnpork " target="Dangerous Beans " id="44" weight="4.0" />
+      <edge source="Hamnpork " target="Bunnsy Has An Adventure " id="45" weight="7.0" />
+      <edge source="Dangerous Beans " target="Peaches " id="46" weight="10.0" />
+      <edge source="Dangerous Beans " target="Maurice " id="47" weight="10.0" />
+      <edge source="Dangerous Beans " target="Bunnsy Has An Adventure " id="48" weight="4.0" />
+      <edge source="Bunnsy Has An Adventure " target="Peaches " id="49" weight="7.0" />
+      <edge source="Bunnsy Has An Adventure " target="Bunnsy " id="50" weight="5.0" />
+      <edge source="Bunnsy Has An Adventure " target="Maurice " id="51" weight="10.0" />
+      <edge source="Look " target="Maurice " id="52" weight="4.0" />
+      <edge source="Bill " target="Maurice " id="53" weight="4.0" />
+      <edge source="Peaches " target="Maurice " id="54" weight="19.0" />
+      <edge source="Bunnsy " target="Maurice " id="55" weight="6.0" />
+    </edges>
+  </graph>
+</gexf>

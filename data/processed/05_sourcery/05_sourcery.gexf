@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Rincewind " label="Rincewind " />
+      <node id="Spelter " label="Spelter " />
+      <node id="Conina " label="Conina " />
+      <node id="Abrim " label="Abrim " />
+      <node id="Don " label="Don " />
+      <node id="Nijel " label="Nijel " />
+      <node id="Coin " label="Coin " />
+    </nodes>
+    <edges>
+      <edge source="Rincewind " target="Conina " id="0" weight="5.0" />
+      <edge source="Rincewind " target="Coin " id="1" weight="9.0" />
+      <edge source="Rincewind " target="Abrim " id="2" weight="4.0" />
+      <edge source="Rincewind " target="Don " id="3" weight="5.0" />
+      <edge source="Rincewind " target="Nijel " id="4" weight="10.0" />
+      <edge source="Spelter " target="Coin " id="5" weight="10.0" />
+    </edges>
+  </graph>
+</gexf>

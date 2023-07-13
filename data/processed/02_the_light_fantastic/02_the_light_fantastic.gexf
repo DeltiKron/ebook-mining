@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Bethan " label="Bethan " />
+      <node id="Rincewind " label="Rincewind " />
+      <node id="Cohen " label="Cohen " />
+      <node id="Herrena " label="Herrena " />
+      <node id="Lackjaw " label="Lackjaw " />
+      <node id="Twoflower " label="Twoflower " />
+      <node id="Trymon " label="Trymon " />
+      <node id="Galder " label="Galder " />
+      <node id="Death " label="Death " />
+    </nodes>
+    <edges>
+      <edge source="Bethan " target="Twoflower " id="0" weight="10.0" />
+      <edge source="Bethan " target="Rincewind " id="1" weight="9.0" />
+      <edge source="Bethan " target="Cohen " id="2" weight="11.0" />
+      <edge source="Rincewind " target="Twoflower " id="3" weight="45.0" />
+      <edge source="Rincewind " target="Death " id="4" weight="4.0" />
+      <edge source="Rincewind " target="Cohen " id="5" weight="10.0" />
+      <edge source="Rincewind " target="Herrena " id="6" weight="6.0" />
+      <edge source="Rincewind " target="Trymon " id="7" weight="4.0" />
+      <edge source="Cohen " target="Twoflower " id="8" weight="10.0" />
+      <edge source="Cohen " target="Lackjaw " id="9" weight="7.0" />
+      <edge source="Trymon " target="Galder " id="10" weight="4.0" />
+    </edges>
+  </graph>
+</gexf>

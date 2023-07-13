@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Quirm " label="Quirm " />
+      <node id="Mad Hamish " label="Mad Hamish " />
+      <node id="Vena " label="Vena " />
+      <node id="Evil Harry " label="Evil Harry " />
+      <node id="Cohen " label="Cohen " />
+      <node id="How " label="How " />
+      <node id="Ponder Stibbons " label="Ponder Stibbons " />
+      <node id="Whut " label="Whut " />
+      <node id="Dark Lord " label="Dark Lord " />
+      <node id="Ridcully " label="Ridcully " />
+      <node id="Willie " label="Willie " />
+      <node id="Rincewind " label="Rincewind " />
+      <node id="Ook " label="Ook " />
+      <node id="Harry " label="Harry " />
+      <node id="Offler " label="Offler " />
+      <node id="Hamish " label="Hamish " />
+      <node id="Ponder " label="Ponder " />
+      <node id="Caleb " label="Caleb " />
+      <node id="Leonard " label="Leonard " />
+      <node id="Vetinari " label="Vetinari " />
+      <node id="Mrs McGarry " label="Mrs McGarry " />
+      <node id="Carrot " label="Carrot " />
+      <node id="Lord Vetinari " label="Lord Vetinari " />
+      <node id="Blind Io " label="Blind Io " />
+      <node id="Boy Willie " label="Boy Willie " />
+      <node id="Fate " label="Fate " />
+      <node id="Truckle " label="Truckle " />
+      <node id="Horde " label="Horde " />
+      <node id="Nuggan " label="Nuggan " />
+      <node id="Captain Carrot " label="Captain Carrot " />
+    </nodes>
+    <edges>
+      <edge source="Quirm " target="Lord Vetinari " id="0" weight="4.0" />
+      <edge source="Quirm " target="Leonard " id="1" weight="5.0" />
+      <edge source="Mad Hamish " target="Boy Willie " id="2" weight="7.0" />
+      <edge source="Mad Hamish " target="Willie " id="3" weight="4.0" />
+      <edge source="Mad Hamish " target="Truckle " id="4" weight="7.0" />
+      <edge source="Mad Hamish " target="Caleb " id="5" weight="6.0" />
+      <edge source="Mad Hamish " target="Harry " id="6" weight="4.0" />
+      <edge source="Mad Hamish " target="Evil Harry " id="7" weight="5.0" />
+      <edge source="Mad Hamish " target="Cohen " id="8" weight="11.0" />
+      <edge source="Mad Hamish " target="Leonard " id="9" weight="6.0" />
+      <edge source="Mad Hamish " target="Mrs McGarry " id="10" weight="4.0" />
+      <edge source="Mad Hamish " target="Rincewind " id="11" weight="5.0" />
+      <edge source="Vena " target="Evil Harry " id="12" weight="7.0" />
+      <edge source="Vena " target="Mrs McGarry " id="13" weight="4.0" />
+      <edge source="Vena " target="Cohen " id="14" weight="9.0" />
+      <edge source="Vena " target="Truckle " id="15" weight="6.0" />
+      <edge source="Vena " target="Harry " id="16" weight="6.0" />
+      <edge source="Vena " target="Boy Willie " id="17" weight="5.0" />
+      <edge source="Vena " target="Rincewind " id="18" weight="6.0" />
+      <edge source="Vena " target="Leonard " id="19" weight="6.0" />
+      <edge source="Vena " target="Carrot " id="20" weight="5.0" />
+      <edge source="Vena " target="Caleb " id="21" weight="4.0" />
+      <edge source="Evil Harry " target="Harry " id="22" weight="18.0" />
+      <edge source="Evil Harry " target="Cohen " id="23" weight="19.0" />
+      <edge source="Evil Harry " target="Boy Willie " id="24" weight="11.0" />
+      <edge source="Evil Harry " target="Ponder " id="25" weight="5.0" />
+      <edge source="Evil Harry " target="Caleb " id="26" weight="10.0" />
+      <edge source="Evil Harry " target="Dark Lord " id="27" weight="4.0" />
+      <edge source="Evil Harry " target="Willie " id="28" weight="4.0" />
+      <edge source="Evil Harry " target="Carrot " id="29" weight="6.0" />
+      <edge source="Evil Harry " target="Horde " id="30" weight="4.0" />
+      <edge source="Evil Harry " target="Rincewind " id="31" weight="9.0" />
+      <edge source="Evil Harry " target="Leonard " id="32" weight="10.0" />
+      <edge source="Evil Harry " target="Truckle " id="33" weight="8.0" />
+      <edge source="Evil Harry " target="Mrs McGarry " id="34" weight="4.0" />
+      <edge source="Evil Harry " target="Vetinari " id="35" weight="4.0" />
+      <edge source="Cohen " target="Lord Vetinari " id="36" weight="13.0" />
+      <edge source="Cohen " target="Ponder Stibbons " id="37" weight="7.0" />
+      <edge source="Cohen " target="Vetinari " id="38" weight="7.0" />
+      <edge source="Cohen " target="Ridcully " id="39" weight="6.0" />
+      <edge source="Cohen " target="Rincewind " id="40" weight="17.0" />
+      <edge source="Cohen " target="Boy Willie " id="41" weight="18.0" />
+      <edge source="Cohen " target="Horde " id="42" weight="7.0" />
+      <edge source="Cohen " target="Leonard " id="43" weight="19.0" />
+      <edge source="Cohen " target="Caleb " id="44" weight="18.0" />
+      <edge source="Cohen " target="Ponder " id="45" weight="13.0" />
+      <edge source="Cohen " target="Truckle " id="46" weight="18.0" />
+      <edge source="Cohen " target="Whut " id="47" weight="5.0" />
+      <edge source="Cohen " target="Harry " id="48" weight="16.0" />
+      <edge source="Cohen " target="How " id="49" weight="4.0" />
+      <edge source="Cohen " target="Hamish " id="50" weight="4.0" />
+      <edge source="Cohen " target="Willie " id="51" weight="5.0" />
+      <edge source="Cohen " target="Carrot " id="52" weight="11.0" />
+      <edge source="Cohen " target="Offler " id="53" weight="4.0" />
+      <edge source="Cohen " target="Nuggan " id="54" weight="4.0" />
+      <edge source="Cohen " target="Mrs McGarry " id="55" weight="4.0" />
+      <edge source="Cohen " target="Fate " id="56" weight="6.0" />
+      <edge source="Ponder Stibbons " target="Lord Vetinari " id="57" weight="8.0" />
+      <edge source="Ponder Stibbons " target="Ponder " id="58" weight="9.0" />
+      <edge source="Ponder Stibbons " target="Ridcully " id="59" weight="4.0" />
+      <edge source="Ponder Stibbons " target="Leonard " id="60" weight="8.0" />
+      <edge source="Ponder Stibbons " target="Rincewind " id="61" weight="5.0" />
+      <edge source="Whut " target="Boy Willie " id="62" weight="5.0" />
+      <edge source="Whut " target="Truckle " id="63" weight="5.0" />
+      <edge source="Whut " target="Caleb " id="64" weight="6.0" />
+      <edge source="Dark Lord " target="Harry " id="65" weight="4.0" />
+      <edge source="Ridcully " target="Lord Vetinari " id="66" weight="12.0" />
+      <edge source="Ridcully " target="Ponder " id="67" weight="10.0" />
+      <edge source="Ridcully " target="Vetinari " id="68" weight="4.0" />
+      <edge source="Ridcully " target="Boy Willie " id="69" weight="4.0" />
+      <edge source="Ridcully " target="Leonard " id="70" weight="9.0" />
+      <edge source="Ridcully " target="Rincewind " id="71" weight="6.0" />
+      <edge source="Ridcully " target="Carrot " id="72" weight="4.0" />
+      <edge source="Willie " target="Boy Willie " id="73" weight="5.0" />
+      <edge source="Willie " target="Truckle " id="74" weight="4.0" />
+      <edge source="Willie " target="Caleb " id="75" weight="4.0" />
+      <edge source="Willie " target="Harry " id="76" weight="4.0" />
+      <edge source="Rincewind " target="Lord Vetinari " id="77" weight="12.0" />
+      <edge source="Rincewind " target="Vetinari " id="78" weight="7.0" />
+      <edge source="Rincewind " target="Captain Carrot " id="79" weight="6.0" />
+      <edge source="Rincewind " target="Harry " id="80" weight="7.0" />
+      <edge source="Rincewind " target="Carrot " id="81" weight="28.0" />
+      <edge source="Rincewind " target="Leonard " id="82" weight="29.0" />
+      <edge source="Rincewind " target="Boy Willie " id="83" weight="9.0" />
+      <edge source="Rincewind " target="Caleb " id="84" weight="5.0" />
+      <edge source="Rincewind " target="Ponder " id="85" weight="15.0" />
+      <edge source="Rincewind " target="Ook " id="86" weight="4.0" />
+      <edge source="Rincewind " target="Fate " id="87" weight="5.0" />
+      <edge source="Rincewind " target="Blind Io " id="88" weight="5.0" />
+      <edge source="Ook " target="Leonard " id="89" weight="4.0" />
+      <edge source="Harry " target="Boy Willie " id="90" weight="11.0" />
+      <edge source="Harry " target="Ponder " id="91" weight="4.0" />
+      <edge source="Harry " target="Caleb " id="92" weight="9.0" />
+      <edge source="Harry " target="Horde " id="93" weight="4.0" />
+      <edge source="Harry " target="Leonard " id="94" weight="8.0" />
+      <edge source="Harry " target="Truckle " id="95" weight="6.0" />
+      <edge source="Offler " target="Blind Io " id="96" weight="5.0" />
+      <edge source="Offler " target="Fate " id="97" weight="4.0" />
+      <edge source="Ponder " target="Lord Vetinari " id="98" weight="16.0" />
+      <edge source="Ponder " target="Vetinari " id="99" weight="7.0" />
+      <edge source="Ponder " target="Boy Willie " id="100" weight="7.0" />
+      <edge source="Ponder " target="Truckle " id="101" weight="5.0" />
+      <edge source="Ponder " target="Caleb " id="102" weight="6.0" />
+      <edge source="Ponder " target="Leonard " id="103" weight="19.0" />
+      <edge source="Ponder " target="Carrot " id="104" weight="12.0" />
+      <edge source="Caleb " target="Lord Vetinari " id="105" weight="5.0" />
+      <edge source="Caleb " target="Boy Willie " id="106" weight="14.0" />
+      <edge source="Caleb " target="Truckle " id="107" weight="13.0" />
+      <edge source="Caleb " target="Horde " id="108" weight="5.0" />
+      <edge source="Caleb " target="Leonard " id="109" weight="6.0" />
+      <edge source="Caleb " target="Carrot " id="110" weight="6.0" />
+      <edge source="Leonard " target="Lord Vetinari " id="111" weight="17.0" />
+      <edge source="Leonard " target="Vetinari " id="112" weight="8.0" />
+      <edge source="Leonard " target="Boy Willie " id="113" weight="11.0" />
+      <edge source="Leonard " target="Horde " id="114" weight="4.0" />
+      <edge source="Leonard " target="Truckle " id="115" weight="7.0" />
+      <edge source="Leonard " target="Captain Carrot " id="116" weight="6.0" />
+      <edge source="Leonard " target="Carrot " id="117" weight="25.0" />
+      <edge source="Leonard " target="Fate " id="118" weight="5.0" />
+      <edge source="Leonard " target="Blind Io " id="119" weight="5.0" />
+      <edge source="Vetinari " target="Lord Vetinari " id="120" weight="11.0" />
+      <edge source="Carrot " target="Captain Carrot " id="121" weight="6.0" />
+      <edge source="Carrot " target="Boy Willie " id="122" weight="6.0" />
+      <edge source="Carrot " target="Truckle " id="123" weight="4.0" />
+      <edge source="Carrot " target="Lord Vetinari " id="124" weight="8.0" />
+      <edge source="Carrot " target="Fate " id="125" weight="4.0" />
+      <edge source="Carrot " target="Blind Io " id="126" weight="4.0" />
+      <edge source="Lord Vetinari " target="Boy Willie " id="127" weight="4.0" />
+      <edge source="Lord Vetinari " target="Truckle " id="128" weight="4.0" />
+      <edge source="Blind Io " target="Fate " id="129" weight="6.0" />
+      <edge source="Boy Willie " target="Truckle " id="130" weight="11.0" />
+      <edge source="Boy Willie " target="Horde " id="131" weight="4.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Didactylos " label="Didactylos " />
+      <node id="Vorbis " label="Vorbis " />
+      <node id="Brother " label="Brother " />
+      <node id="Brutha " label="Brutha " />
+      <node id="Om " label="Om " />
+      <node id="Simony " label="Simony " />
+      <node id="Brother Nhumrod " label="Brother Nhumrod " />
+      <node id="Urn " label="Urn " />
+      <node id="Brother Murduck " label="Brother Murduck " />
+      <node id="Nhumrod " label="Nhumrod " />
+      <node id="Deacon Vorbis " label="Deacon Vorbis " />
+    </nodes>
+    <edges>
+      <edge source="Didactylos " target="Urn " id="0" weight="12.0" />
+      <edge source="Didactylos " target="Brutha " id="1" weight="8.0" />
+      <edge source="Vorbis " target="Om " id="2" weight="4.0" />
+      <edge source="Vorbis " target="Brutha " id="3" weight="67.0" />
+      <edge source="Brother " target="Brutha " id="4" weight="4.0" />
+      <edge source="Brother " target="Nhumrod " id="5" weight="7.0" />
+      <edge source="Brutha " target="Brother Nhumrod " id="6" weight="14.0" />
+      <edge source="Brutha " target="Nhumrod " id="7" weight="8.0" />
+      <edge source="Brutha " target="Brother Murduck " id="8" weight="4.0" />
+      <edge source="Brutha " target="Om " id="9" weight="13.0" />
+      <edge source="Brutha " target="Urn " id="10" weight="8.0" />
+      <edge source="Brutha " target="Simony " id="11" weight="7.0" />
+      <edge source="Brutha " target="Deacon Vorbis " id="12" weight="4.0" />
+      <edge source="Simony " target="Urn " id="13" weight="7.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Lady Margolotta " label="Lady Margolotta " />
+      <node id="Sybil " label="Sybil " />
+      <node id="Sam " label="Sam " />
+      <node id="Lord " label="Lord " />
+      <node id="Vetinari " label="Vetinari " />
+      <node id="Sam Vimes " label="Sam Vimes " />
+      <node id="Cheery " label="Cheery " />
+      <node id="Wolf " label="Wolf " />
+      <node id="Carrot " label="Carrot " />
+      <node id="Leonard " label="Leonard " />
+      <node id="Nobby " label="Nobby " />
+      <node id="Igor " label="Igor " />
+      <node id="Gavin " label="Gavin " />
+      <node id="Gaspode " label="Gaspode " />
+      <node id="Reg " label="Reg " />
+      <node id="Shoe " label="Shoe " />
+      <node id="Dee " label="Dee " />
+      <node id="Margolotta " label="Margolotta " />
+      <node id="Vimes " label="Vimes " />
+      <node id="Serafine " label="Serafine " />
+      <node id="Inigo " label="Inigo " />
+      <node id="Detritus " label="Detritus " />
+      <node id="Lady Sybil " label="Lady Sybil " />
+      <node id="Mister Vimes " label="Mister Vimes " />
+      <node id="Sir Samuel " label="Sir Samuel " />
+      <node id="Lady " label="Lady " />
+      <node id="Wolfgang " label="Wolfgang " />
+      <node id="Tantony " label="Tantony " />
+      <node id="Angua " label="Angua " />
+    </nodes>
+    <edges>
+      <edge source="Lady Margolotta " target="Sir Samuel " id="0" weight="4.0" />
+      <edge source="Sybil " target="Vimes " id="1" weight="14.0" />
+      <edge source="Sybil " target="Sam " id="2" weight="12.0" />
+      <edge source="Sybil " target="Lady " id="3" weight="6.0" />
+      <edge source="Sybil " target="Sam Vimes " id="4" weight="4.0" />
+      <edge source="Sybil " target="Serafine " id="5" weight="4.0" />
+      <edge source="Lord " target="Vetinari " id="6" weight="9.0" />
+      <edge source="Vetinari " target="Leonard " id="7" weight="7.0" />
+      <edge source="Cheery " target="Vimes " id="8" weight="7.0" />
+      <edge source="Wolf " target="Vimes " id="9" weight="5.0" />
+      <edge source="Carrot " target="Vimes " id="10" weight="22.0" />
+      <edge source="Carrot " target="Gavin " id="11" weight="5.0" />
+      <edge source="Carrot " target="Angua " id="12" weight="11.0" />
+      <edge source="Carrot " target="Wolfgang " id="13" weight="9.0" />
+      <edge source="Carrot " target="Mister Vimes " id="14" weight="6.0" />
+      <edge source="Carrot " target="Gaspode " id="15" weight="16.0" />
+      <edge source="Nobby " target="Angua " id="16" weight="5.0" />
+      <edge source="Nobby " target="Vimes " id="17" weight="5.0" />
+      <edge source="Igor " target="Vimes " id="18" weight="18.0" />
+      <edge source="Gavin " target="Angua " id="19" weight="6.0" />
+      <edge source="Gavin " target="Vimes " id="20" weight="5.0" />
+      <edge source="Gaspode " target="Angua " id="21" weight="4.0" />
+      <edge source="Reg " target="Shoe " id="22" weight="4.0" />
+      <edge source="Dee " target="Vimes " id="23" weight="11.0" />
+      <edge source="Margolotta " target="Lady " id="24" weight="10.0" />
+      <edge source="Vimes " target="Detritus " id="25" weight="9.0" />
+      <edge source="Vimes " target="Inigo " id="26" weight="15.0" />
+      <edge source="Vimes " target="Angua " id="27" weight="11.0" />
+      <edge source="Vimes " target="Wolfgang " id="28" weight="7.0" />
+      <edge source="Vimes " target="Tantony " id="29" weight="12.0" />
+      <edge source="Vimes " target="Lady Sybil " id="30" weight="6.0" />
+      <edge source="Wolfgang " target="Angua " id="31" weight="7.0" />
+    </edges>
+  </graph>
+</gexf>
